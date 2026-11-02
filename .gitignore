@@ -1,0 +1,7 @@
+# raw data (too large / not needed by the app)
+afnc_items.csv
+*.xlsx
+raw/
+__pycache__/
+.venv/
+.streamlit/secrets.toml

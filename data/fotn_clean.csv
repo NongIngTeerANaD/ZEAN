@@ -1,0 +1,941 @@
+﻿country,iso3,iso_numeric,data_year,report_edition,total_score,obstacles_to_access,limits_on_content,violations_of_user_rights,status_code,status,status_th,country_clean,is_asean,is_thailand,n_countries_year,world_mean_score,rank_in_year
+Angola,AGO,24,2012,2013,66,10,29,27,2,Partly Free,เสรีบางส่วน,Angola,False,False,59,54.93,21
+Angola,AGO,24,2013,2014,62,10,28,24,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,54.78,26
+Angola,AGO,24,2014,2015,61,11,27,23,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,54.47,27
+Angola,AGO,24,2015,2016,60,11,28,21,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,53.64,27
+Angola,AGO,24,2016,2017,60,11,28,21,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,52.91,25
+Angola,AGO,24,2017,2018,60,11,28,21,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,53.03,25
+Angola,AGO,24,2018,2019,64,12,30,22,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,52.3,19
+Angola,AGO,24,2019,2020,62,11,30,21,2,Partly Free,เสรีบางส่วน,Angola,False,False,64,52.03,22
+Angola,AGO,24,2020,2021,62,12,30,20,2,Partly Free,เสรีบางส่วน,Angola,False,False,69,53.06,26
+Angola,AGO,24,2021,2022,61,11,29,21,2,Partly Free,เสรีบางส่วน,Angola,False,False,69,52.87,26
+Angola,AGO,24,2022,2023,59,12,28,19,2,Partly Free,เสรีบางส่วน,Angola,False,False,69,52.55,30
+Angola,AGO,24,2023,2024,59,12,28,19,2,Partly Free,เสรีบางส่วน,Angola,False,False,71,53.21,32
+Angola,AGO,24,2024,2025,60,12,29,19,2,Partly Free,เสรีบางส่วน,Angola,False,False,71,52.92,31
+Argentina,ARG,32,2011,2012,74,16,26,32,1,Free,เสรี,Argentina,False,False,47,53.43,9
+Argentina,ARG,32,2012,2013,73,17,25,31,1,Free,เสรี,Argentina,False,False,59,54.93,14
+Argentina,ARG,32,2013,2014,73,18,26,29,1,Free,เสรี,Argentina,False,False,64,54.78,14
+Argentina,ARG,32,2014,2015,73,18,27,28,1,Free,เสรี,Argentina,False,False,64,54.47,13
+Argentina,ARG,32,2015,2016,73,19,26,28,1,Free,เสรี,Argentina,False,False,64,53.64,14
+Argentina,ARG,32,2016,2017,73,19,28,26,1,Free,เสรี,Argentina,False,False,64,52.91,13
+Argentina,ARG,32,2017,2018,72,19,27,26,1,Free,เสรี,Argentina,False,False,64,53.03,14
+Argentina,ARG,32,2018,2019,72,19,26,27,1,Free,เสรี,Argentina,False,False,64,52.3,13
+Argentina,ARG,32,2019,2020,71,19,27,25,1,Free,เสรี,Argentina,False,False,64,52.03,13
+Argentina,ARG,32,2020,2021,71,19,27,25,1,Free,เสรี,Argentina,False,False,69,53.06,15
+Argentina,ARG,32,2021,2022,71,19,27,25,1,Free,เสรี,Argentina,False,False,69,52.87,17
+Argentina,ARG,32,2022,2023,73,19,28,26,1,Free,เสรี,Argentina,False,False,69,52.55,14
+Argentina,ARG,32,2023,2024,71,19,27,25,1,Free,เสรี,Argentina,False,False,71,53.21,18
+Argentina,ARG,32,2024,2025,71,20,27,24,1,Free,เสรี,Argentina,False,False,71,52.92,17
+Armenia,ARM,51,2012,2013,71,17,26,28,1,Free,เสรี,Armenia,False,False,59,54.93,17
+Armenia,ARM,51,2013,2014,72,18,26,28,1,Free,เสรี,Armenia,False,False,64,54.78,16
+Armenia,ARM,51,2014,2015,72,19,25,28,1,Free,เสรี,Armenia,False,False,64,54.47,16
+Armenia,ARM,51,2015,2016,70,19,25,26,1,Free,เสรี,Armenia,False,False,64,53.64,17
+Armenia,ARM,51,2016,2017,68,18,25,25,2,Partly Free,เสรีบางส่วน,Armenia,False,False,64,52.91,17
+Armenia,ARM,51,2017,2018,73,20,27,26,1,Free,เสรี,Armenia,False,False,64,53.03,13
+Armenia,ARM,51,2018,2019,76,20,29,27,1,Free,เสรี,Armenia,False,False,64,52.3,8
+Armenia,ARM,51,2019,2020,75,20,28,27,1,Free,เสรี,Armenia,False,False,64,52.03,11
+Armenia,ARM,51,2020,2021,71,19,26,26,1,Free,เสรี,Armenia,False,False,69,53.06,15
+Armenia,ARM,51,2021,2022,74,20,28,26,1,Free,เสรี,Armenia,False,False,69,52.87,14
+Armenia,ARM,51,2022,2023,72,19,28,25,1,Free,เสรี,Armenia,False,False,69,52.55,16
+Armenia,ARM,51,2023,2024,74,20,29,25,1,Free,เสรี,Armenia,False,False,71,53.21,15
+Armenia,ARM,51,2024,2025,72,20,28,24,1,Free,เสรี,Armenia,False,False,71,52.92,16
+Australia,AUS,36,2010,2011,83,22,29,32,1,Free,เสรี,Australia,False,False,37,51.81,4
+Australia,AUS,36,2011,2012,84,23,30,31,1,Free,เสรี,Australia,False,False,47,53.43,4
+Australia,AUS,36,2012,2013,83,23,30,30,1,Free,เสรี,Australia,False,False,59,54.93,3
+Australia,AUS,36,2013,2014,83,23,30,30,1,Free,เสรี,Australia,False,False,64,54.78,4
+Australia,AUS,36,2014,2015,81,23,30,28,1,Free,เสรี,Australia,False,False,64,54.47,5
+Australia,AUS,36,2015,2016,79,23,29,27,1,Free,เสรี,Australia,False,False,64,53.64,6
+Australia,AUS,36,2016,2017,79,23,29,27,1,Free,เสรี,Australia,False,False,64,52.91,5
+Australia,AUS,36,2017,2018,79,23,29,27,1,Free,เสรี,Australia,False,False,64,53.03,5
+Australia,AUS,36,2018,2019,77,23,29,25,1,Free,เสรี,Australia,False,False,64,52.3,5
+Australia,AUS,36,2019,2020,76,23,28,25,1,Free,เสรี,Australia,False,False,64,52.03,7
+Australia,AUS,36,2020,2021,75,23,27,25,1,Free,เสรี,Australia,False,False,69,53.06,12
+Australia,AUS,36,2021,2022,76,23,28,25,1,Free,เสรี,Australia,False,False,69,52.87,10
+Australia,AUS,36,2022,2023,76,23,28,25,1,Free,เสรี,Australia,False,False,69,52.55,9
+Australia,AUS,36,2023,2024,76,23,28,25,1,Free,เสรี,Australia,False,False,71,53.21,11
+Australia,AUS,36,2024,2025,75,23,28,24,1,Free,เสรี,Australia,False,False,71,52.92,11
+Azerbaijan,AZE,31,2010,2011,52,10,20,22,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,37,51.81,20
+Azerbaijan,AZE,31,2011,2012,50,12,19,19,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,47,53.43,28
+Azerbaijan,AZE,31,2012,2013,48,12,18,18,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,59,54.93,39
+Azerbaijan,AZE,31,2013,2014,45,11,18,16,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,64,54.78,42
+Azerbaijan,AZE,31,2014,2015,44,12,16,16,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,64,54.47,43
+Azerbaijan,AZE,31,2015,2016,43,11,16,16,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,64,53.64,43
+Azerbaijan,AZE,31,2016,2017,42,12,15,15,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,64,52.91,44
+Azerbaijan,AZE,31,2017,2018,40,12,14,14,2,Partly Free,เสรีบางส่วน,Azerbaijan,False,False,64,53.03,45
+Azerbaijan,AZE,31,2018,2019,39,11,15,13,3,Not Free,ไม่เสรี,Azerbaijan,False,False,64,52.3,45
+Azerbaijan,AZE,31,2019,2020,38,11,15,12,3,Not Free,ไม่เสรี,Azerbaijan,False,False,64,52.03,45
+Azerbaijan,AZE,31,2020,2021,35,10,14,11,3,Not Free,ไม่เสรี,Azerbaijan,False,False,69,53.06,52
+Azerbaijan,AZE,31,2021,2022,38,12,15,11,3,Not Free,ไม่เสรี,Azerbaijan,False,False,69,52.87,51
+Azerbaijan,AZE,31,2022,2023,37,11,15,11,3,Not Free,ไม่เสรี,Azerbaijan,False,False,69,52.55,51
+Azerbaijan,AZE,31,2023,2024,34,11,13,10,3,Not Free,ไม่เสรี,Azerbaijan,False,False,71,53.21,54
+Azerbaijan,AZE,31,2024,2025,34,12,13,9,3,Not Free,ไม่เสรี,Azerbaijan,False,False,71,52.92,54
+Bahrain,BHR,48,2010,2011,38,14,13,11,3,Not Free,ไม่เสรี,Bahrain,False,False,37,51.81,28
+Bahrain,BHR,48,2011,2012,29,13,10,6,3,Not Free,ไม่เสรี,Bahrain,False,False,47,53.43,38
+Bahrain,BHR,48,2012,2013,28,14,9,5,3,Not Free,ไม่เสรี,Bahrain,False,False,59,54.93,52
+Bahrain,BHR,48,2013,2014,26,13,8,5,3,Not Free,ไม่เสรี,Bahrain,False,False,64,54.78,57
+Bahrain,BHR,48,2014,2015,28,14,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,64,54.47,56
+Bahrain,BHR,48,2015,2016,29,15,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,64,53.64,56
+Bahrain,BHR,48,2016,2017,28,14,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,64,52.91,56
+Bahrain,BHR,48,2017,2018,29,15,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,64,53.03,54
+Bahrain,BHR,48,2018,2019,29,16,8,5,3,Not Free,ไม่เสรี,Bahrain,False,False,64,52.3,53
+Bahrain,BHR,48,2019,2020,29,15,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,64,52.03,52
+Bahrain,BHR,48,2020,2021,30,16,8,6,3,Not Free,ไม่เสรี,Bahrain,False,False,69,53.06,56
+Bahrain,BHR,48,2021,2022,29,16,6,7,3,Not Free,ไม่เสรี,Bahrain,False,False,69,52.87,56
+Bahrain,BHR,48,2022,2023,28,15,6,7,3,Not Free,ไม่เสรี,Bahrain,False,False,69,52.55,57
+Bahrain,BHR,48,2023,2024,28,15,6,7,3,Not Free,ไม่เสรี,Bahrain,False,False,71,53.21,59
+Bahrain,BHR,48,2024,2025,30,16,6,8,3,Not Free,ไม่เสรี,Bahrain,False,False,71,52.92,57
+Bangladesh,BGD,50,2012,2013,51,12,23,16,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,59,54.93,37
+Bangladesh,BGD,50,2013,2014,51,13,23,15,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,54.78,40
+Bangladesh,BGD,50,2014,2015,49,13,23,13,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,54.47,41
+Bangladesh,BGD,50,2015,2016,44,11,21,12,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,53.64,41
+Bangladesh,BGD,50,2016,2017,46,12,20,14,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,52.91,41
+Bangladesh,BGD,50,2017,2018,49,13,21,15,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,53.03,39
+Bangladesh,BGD,50,2018,2019,44,13,17,14,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,52.3,41
+Bangladesh,BGD,50,2019,2020,42,13,17,12,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,64,52.03,43
+Bangladesh,BGD,50,2020,2021,40,12,17,11,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,69,53.06,49
+Bangladesh,BGD,50,2021,2022,43,13,18,12,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,69,52.87,47
+Bangladesh,BGD,50,2022,2023,41,12,18,11,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,69,52.55,49
+Bangladesh,BGD,50,2023,2024,40,12,17,11,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,71,53.21,50
+Bangladesh,BGD,50,2024,2025,45,12,20,13,2,Partly Free,เสรีบางส่วน,Bangladesh,False,False,71,52.92,47
+Belarus,BLR,112,2010,2011,31,6,12,13,3,Not Free,ไม่เสรี,Belarus,False,False,37,51.81,29
+Belarus,BLR,112,2011,2012,31,9,12,10,3,Not Free,ไม่เสรี,Belarus,False,False,47,53.43,37
+Belarus,BLR,112,2012,2013,33,9,13,11,3,Not Free,ไม่เสรี,Belarus,False,False,59,54.93,49
+Belarus,BLR,112,2013,2014,38,10,15,13,3,Not Free,ไม่เสรี,Belarus,False,False,64,54.78,51
+Belarus,BLR,112,2014,2015,36,10,14,12,3,Not Free,ไม่เสรี,Belarus,False,False,64,54.47,52
+Belarus,BLR,112,2015,2016,38,12,14,12,3,Not Free,ไม่เสรี,Belarus,False,False,64,53.64,48
+Belarus,BLR,112,2016,2017,36,11,15,10,3,Not Free,ไม่เสรี,Belarus,False,False,64,52.91,48
+Belarus,BLR,112,2017,2018,36,11,14,11,3,Not Free,ไม่เสรี,Belarus,False,False,64,53.03,47
+Belarus,BLR,112,2018,2019,35,12,13,10,3,Not Free,ไม่เสรี,Belarus,False,False,64,52.3,48
+Belarus,BLR,112,2019,2020,38,12,16,10,3,Not Free,ไม่เสรี,Belarus,False,False,64,52.03,45
+Belarus,BLR,112,2020,2021,31,10,14,7,3,Not Free,ไม่เสรี,Belarus,False,False,69,53.06,55
+Belarus,BLR,112,2021,2022,28,12,10,6,3,Not Free,ไม่เสรี,Belarus,False,False,69,52.87,57
+Belarus,BLR,112,2022,2023,25,13,7,5,3,Not Free,ไม่เสรี,Belarus,False,False,69,52.55,61
+Belarus,BLR,112,2023,2024,22,13,5,4,3,Not Free,ไม่เสรี,Belarus,False,False,71,53.21,65
+Belarus,BLR,112,2024,2025,20,12,5,3,3,Not Free,ไม่เสรี,Belarus,False,False,71,52.92,67
+Brazil,BRA,76,2010,2011,71,18,28,25,1,Free,เสรี,Brazil,False,False,37,51.81,8
+Brazil,BRA,76,2011,2012,73,18,29,26,1,Free,เสรี,Brazil,False,False,47,53.43,11
+Brazil,BRA,76,2012,2013,68,18,27,23,2,Partly Free,เสรีบางส่วน,Brazil,False,False,59,54.93,19
+Brazil,BRA,76,2013,2014,70,18,28,24,1,Free,เสรี,Brazil,False,False,64,54.78,18
+Brazil,BRA,76,2014,2015,71,18,29,24,1,Free,เสรี,Brazil,False,False,64,54.47,17
+Brazil,BRA,76,2015,2016,68,17,28,23,2,Partly Free,เสรีบางส่วน,Brazil,False,False,64,53.64,18
+Brazil,BRA,76,2016,2017,67,17,27,23,2,Partly Free,เสรีบางส่วน,Brazil,False,False,64,52.91,19
+Brazil,BRA,76,2017,2018,69,18,28,23,2,Partly Free,เสรีบางส่วน,Brazil,False,False,64,53.03,16
+Brazil,BRA,76,2018,2019,64,18,26,20,2,Partly Free,เสรีบางส่วน,Brazil,False,False,64,52.3,19
+Brazil,BRA,76,2019,2020,63,19,24,20,2,Partly Free,เสรีบางส่วน,Brazil,False,False,64,52.03,21
+Brazil,BRA,76,2020,2021,64,20,24,20,2,Partly Free,เสรีบางส่วน,Brazil,False,False,69,53.06,23
+Brazil,BRA,76,2021,2022,65,20,24,21,2,Partly Free,เสรีบางส่วน,Brazil,False,False,69,52.87,21
+Brazil,BRA,76,2022,2023,64,20,23,21,2,Partly Free,เสรีบางส่วน,Brazil,False,False,69,52.55,23
+Brazil,BRA,76,2023,2024,65,20,25,20,2,Partly Free,เสรีบางส่วน,Brazil,False,False,71,53.21,22
+Brazil,BRA,76,2024,2025,65,22,24,19,2,Partly Free,เสรีบางส่วน,Brazil,False,False,71,52.92,21
+Cambodia,KHM,116,2012,2013,53,11,20,22,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,59,54.93,34
+Cambodia,KHM,116,2013,2014,53,11,20,22,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,54.78,36
+Cambodia,KHM,116,2014,2015,52,11,20,21,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,54.47,38
+Cambodia,KHM,116,2015,2016,48,10,20,18,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,53.64,40
+Cambodia,KHM,116,2016,2017,48,12,20,16,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,52.91,38
+Cambodia,KHM,116,2017,2018,45,12,19,14,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,53.03,42
+Cambodia,KHM,116,2018,2019,43,12,18,13,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,52.3,42
+Cambodia,KHM,116,2019,2020,43,12,18,13,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,64,52.03,42
+Cambodia,KHM,116,2020,2021,43,13,18,12,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,69,53.06,47
+Cambodia,KHM,116,2021,2022,43,13,18,12,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,69,52.87,47
+Cambodia,KHM,116,2022,2023,44,13,17,14,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,69,52.55,45
+Cambodia,KHM,116,2023,2024,43,13,16,14,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,71,53.21,47
+Cambodia,KHM,116,2024,2025,42,14,14,14,2,Partly Free,เสรีบางส่วน,Cambodia,True,False,71,52.92,49
+Canada,CAN,124,2013,2014,85,22,32,31,1,Free,เสรี,Canada,False,False,64,54.78,3
+Canada,CAN,124,2014,2015,84,22,31,31,1,Free,เสรี,Canada,False,False,64,54.47,3
+Canada,CAN,124,2015,2016,84,22,31,31,1,Free,เสรี,Canada,False,False,64,53.64,3
+Canada,CAN,124,2016,2017,85,23,31,31,1,Free,เสรี,Canada,False,False,64,52.91,3
+Canada,CAN,124,2017,2018,85,23,31,31,1,Free,เสรี,Canada,False,False,64,53.03,3
+Canada,CAN,124,2018,2019,87,23,33,31,1,Free,เสรี,Canada,False,False,64,52.3,3
+Canada,CAN,124,2019,2020,87,23,32,32,1,Free,เสรี,Canada,False,False,64,52.03,3
+Canada,CAN,124,2020,2021,87,23,32,32,1,Free,เสรี,Canada,False,False,69,53.06,3
+Canada,CAN,124,2021,2022,87,23,32,32,1,Free,เสรี,Canada,False,False,69,52.87,4
+Canada,CAN,124,2022,2023,88,23,33,32,1,Free,เสรี,Canada,False,False,69,52.55,3
+Canada,CAN,124,2023,2024,86,23,32,31,1,Free,เสรี,Canada,False,False,71,53.21,3
+Canada,CAN,124,2024,2025,85,22,32,31,1,Free,เสรี,Canada,False,False,71,52.92,5
+Chile,CHL,152,2023,2024,86,24,32,30,1,Free,เสรี,Chile,False,False,71,53.21,3
+Chile,CHL,152,2024,2025,87,24,32,31,1,Free,เสรี,Chile,False,False,71,52.92,3
+China,CHN,156,2010,2011,17,6,7,4,3,Not Free,ไม่เสรี,China,False,False,37,51.81,34
+China,CHN,156,2011,2012,15,7,6,2,3,Not Free,ไม่เสรี,China,False,False,47,53.43,45
+China,CHN,156,2012,2013,14,6,6,2,3,Not Free,ไม่เสรี,China,False,False,59,54.93,57
+China,CHN,156,2013,2014,13,6,6,1,3,Not Free,ไม่เสรี,China,False,False,64,54.78,62
+China,CHN,156,2014,2015,12,7,5,0,3,Not Free,ไม่เสรี,China,False,False,64,54.47,64
+China,CHN,156,2015,2016,12,7,5,0,3,Not Free,ไม่เสรี,China,False,False,64,53.64,64
+China,CHN,156,2016,2017,13,8,5,0,3,Not Free,ไม่เสรี,China,False,False,64,52.91,64
+China,CHN,156,2017,2018,12,8,4,0,3,Not Free,ไม่เสรี,China,False,False,64,53.03,64
+China,CHN,156,2018,2019,10,8,2,0,3,Not Free,ไม่เสรี,China,False,False,64,52.3,64
+China,CHN,156,2019,2020,10,8,2,0,3,Not Free,ไม่เสรี,China,False,False,64,52.03,64
+China,CHN,156,2020,2021,10,8,2,0,3,Not Free,ไม่เสรี,China,False,False,69,53.06,69
+China,CHN,156,2021,2022,10,8,2,0,3,Not Free,ไม่เสรี,China,False,False,69,52.87,69
+China,CHN,156,2022,2023,9,7,2,0,3,Not Free,ไม่เสรี,China,False,False,69,52.55,69
+China,CHN,156,2023,2024,9,7,2,0,3,Not Free,ไม่เสรี,China,False,False,71,53.21,70
+China,CHN,156,2024,2025,9,7,2,0,3,Not Free,ไม่เสรี,China,False,False,71,52.92,70
+Colombia,COL,170,2013,2014,70,17,27,26,1,Free,เสรี,Colombia,False,False,64,54.78,18
+Colombia,COL,170,2014,2015,68,17,27,24,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,54.47,19
+Colombia,COL,170,2015,2016,68,17,27,24,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,53.64,18
+Colombia,COL,170,2016,2017,68,17,27,24,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,52.91,17
+Colombia,COL,170,2017,2018,69,17,27,25,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,53.03,16
+Colombia,COL,170,2018,2019,67,17,27,23,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,52.3,17
+Colombia,COL,170,2019,2020,66,18,26,22,2,Partly Free,เสรีบางส่วน,Colombia,False,False,64,52.03,17
+Colombia,COL,170,2020,2021,65,19,25,21,2,Partly Free,เสรีบางส่วน,Colombia,False,False,69,53.06,21
+Colombia,COL,170,2021,2022,64,19,24,21,2,Partly Free,เสรีบางส่วน,Colombia,False,False,69,52.87,23
+Colombia,COL,170,2022,2023,65,19,25,21,2,Partly Free,เสรีบางส่วน,Colombia,False,False,69,52.55,21
+Colombia,COL,170,2023,2024,65,19,25,21,2,Partly Free,เสรีบางส่วน,Colombia,False,False,71,53.21,22
+Colombia,COL,170,2024,2025,64,19,24,21,2,Partly Free,เสรีบางส่วน,Colombia,False,False,71,52.92,23
+Costa Rica,CRI,188,2020,2021,87,20,33,34,1,Free,เสรี,Costa Rica,False,False,69,53.06,3
+Costa Rica,CRI,188,2021,2022,88,21,34,33,1,Free,เสรี,Costa Rica,False,False,69,52.87,3
+Costa Rica,CRI,188,2022,2023,85,21,33,31,1,Free,เสรี,Costa Rica,False,False,69,52.55,4
+Costa Rica,CRI,188,2023,2024,85,21,32,32,1,Free,เสรี,Costa Rica,False,False,71,53.21,5
+Costa Rica,CRI,188,2024,2025,86,22,32,32,1,Free,เสรี,Costa Rica,False,False,71,52.92,4
+Cuba,CUB,192,2010,2011,13,1,5,7,3,Not Free,ไม่เสรี,Cuba,False,False,37,51.81,35
+Cuba,CUB,192,2011,2012,14,1,6,7,3,Not Free,ไม่เสรี,Cuba,False,False,47,53.43,46
+Cuba,CUB,192,2012,2013,14,1,6,7,3,Not Free,ไม่เสรี,Cuba,False,False,59,54.93,57
+Cuba,CUB,192,2013,2014,16,2,7,7,3,Not Free,ไม่เสรี,Cuba,False,False,64,54.78,61
+Cuba,CUB,192,2014,2015,19,3,8,8,3,Not Free,ไม่เสรี,Cuba,False,False,64,54.47,60
+Cuba,CUB,192,2015,2016,21,4,9,8,3,Not Free,ไม่เสรี,Cuba,False,False,64,53.64,59
+Cuba,CUB,192,2016,2017,21,4,9,8,3,Not Free,ไม่เสรี,Cuba,False,False,64,52.91,60
+Cuba,CUB,192,2017,2018,21,5,9,7,3,Not Free,ไม่เสรี,Cuba,False,False,64,53.03,60
+Cuba,CUB,192,2018,2019,22,5,10,7,3,Not Free,ไม่เสรี,Cuba,False,False,64,52.3,61
+Cuba,CUB,192,2019,2020,22,5,10,7,3,Not Free,ไม่เสรี,Cuba,False,False,64,52.03,60
+Cuba,CUB,192,2020,2021,21,5,9,7,3,Not Free,ไม่เสรี,Cuba,False,False,69,53.06,66
+Cuba,CUB,192,2021,2022,20,4,9,7,3,Not Free,ไม่เสรี,Cuba,False,False,69,52.87,66
+Cuba,CUB,192,2022,2023,20,4,9,7,3,Not Free,ไม่เสรี,Cuba,False,False,69,52.55,66
+Cuba,CUB,192,2023,2024,20,5,9,6,3,Not Free,ไม่เสรี,Cuba,False,False,71,53.21,67
+Cuba,CUB,192,2024,2025,21,5,10,6,3,Not Free,ไม่เสรี,Cuba,False,False,71,52.92,66
+Ecuador,ECU,218,2012,2013,63,15,24,24,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,59,54.93,24
+Ecuador,ECU,218,2013,2014,63,16,24,23,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,54.78,25
+Ecuador,ECU,218,2014,2015,63,17,24,22,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,54.47,24
+Ecuador,ECU,218,2015,2016,59,17,23,19,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,53.64,28
+Ecuador,ECU,218,2016,2017,57,17,22,18,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,52.91,31
+Ecuador,ECU,218,2017,2018,60,17,24,19,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,53.03,25
+Ecuador,ECU,218,2018,2019,61,16,24,21,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,52.3,24
+Ecuador,ECU,218,2019,2020,57,15,22,20,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,64,52.03,29
+Ecuador,ECU,218,2020,2021,62,17,25,20,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,69,53.06,26
+Ecuador,ECU,218,2021,2022,64,18,24,22,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,69,52.87,23
+Ecuador,ECU,218,2022,2023,64,18,24,22,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,69,52.55,23
+Ecuador,ECU,218,2023,2024,63,18,23,22,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,71,53.21,26
+Ecuador,ECU,218,2024,2025,63,17,24,22,2,Partly Free,เสรีบางส่วน,Ecuador,False,False,71,52.92,25
+Egypt,EGY,818,2010,2011,46,13,21,12,2,Partly Free,เสรีบางส่วน,Egypt,False,False,37,51.81,23
+Egypt,EGY,818,2011,2012,41,11,23,7,2,Partly Free,เสรีบางส่วน,Egypt,False,False,47,53.43,34
+Egypt,EGY,818,2012,2013,40,10,23,7,2,Partly Free,เสรีบางส่วน,Egypt,False,False,59,54.93,45
+Egypt,EGY,818,2013,2014,40,10,23,7,2,Partly Free,เสรีบางส่วน,Egypt,False,False,64,54.78,47
+Egypt,EGY,818,2014,2015,39,11,22,6,3,Not Free,ไม่เสรี,Egypt,False,False,64,54.47,47
+Egypt,EGY,818,2015,2016,37,10,20,7,3,Not Free,ไม่เสรี,Egypt,False,False,64,53.64,49
+Egypt,EGY,818,2016,2017,32,9,17,6,3,Not Free,ไม่เสรี,Egypt,False,False,64,52.91,53
+Egypt,EGY,818,2017,2018,28,9,14,5,3,Not Free,ไม่เสรี,Egypt,False,False,64,53.03,55
+Egypt,EGY,818,2018,2019,26,10,11,5,3,Not Free,ไม่เสรี,Egypt,False,False,64,52.3,56
+Egypt,EGY,818,2019,2020,26,11,10,5,3,Not Free,ไม่เสรี,Egypt,False,False,64,52.03,57
+Egypt,EGY,818,2020,2021,26,12,10,4,3,Not Free,ไม่เสรี,Egypt,False,False,69,53.06,62
+Egypt,EGY,818,2021,2022,27,13,10,4,3,Not Free,ไม่เสรี,Egypt,False,False,69,52.87,59
+Egypt,EGY,818,2022,2023,28,14,9,5,3,Not Free,ไม่เสรี,Egypt,False,False,69,52.55,57
+Egypt,EGY,818,2023,2024,28,14,9,5,3,Not Free,ไม่เสรี,Egypt,False,False,71,53.21,59
+Egypt,EGY,818,2024,2025,28,14,9,5,3,Not Free,ไม่เสรี,Egypt,False,False,71,52.92,60
+Estonia,EST,233,2010,2011,90,23,33,34,1,Free,เสรี,Estonia,False,False,37,51.81,1
+Estonia,EST,233,2011,2012,90,23,32,35,1,Free,เสรี,Estonia,False,False,47,53.43,1
+Estonia,EST,233,2012,2013,91,24,32,35,1,Free,เสรี,Estonia,False,False,59,54.93,2
+Estonia,EST,233,2013,2014,92,24,32,36,1,Free,เสรี,Estonia,False,False,64,54.78,2
+Estonia,EST,233,2014,2015,93,24,32,37,1,Free,เสรี,Estonia,False,False,64,54.47,2
+Estonia,EST,233,2015,2016,94,25,32,37,1,Free,เสรี,Estonia,False,False,64,53.64,1
+Estonia,EST,233,2016,2017,94,25,32,37,1,Free,เสรี,Estonia,False,False,64,52.91,1
+Estonia,EST,233,2017,2018,94,25,32,37,1,Free,เสรี,Estonia,False,False,64,53.03,1
+Estonia,EST,233,2018,2019,94,25,32,37,1,Free,เสรี,Estonia,False,False,64,52.3,2
+Estonia,EST,233,2019,2020,94,25,32,37,1,Free,เสรี,Estonia,False,False,64,52.03,2
+Estonia,EST,233,2020,2021,94,25,32,37,1,Free,เสรี,Estonia,False,False,69,53.06,2
+Estonia,EST,233,2021,2022,93,25,31,37,1,Free,เสรี,Estonia,False,False,69,52.87,2
+Estonia,EST,233,2022,2023,93,25,31,37,1,Free,เสรี,Estonia,False,False,69,52.55,2
+Estonia,EST,233,2023,2024,92,25,31,36,1,Free,เสรี,Estonia,False,False,71,53.21,2
+Estonia,EST,233,2024,2025,91,25,31,35,1,Free,เสรี,Estonia,False,False,71,52.92,2
+Ethiopia,ETH,231,2010,2011,31,4,9,18,3,Not Free,ไม่เสรี,Ethiopia,False,False,37,51.81,29
+Ethiopia,ETH,231,2011,2012,25,3,8,14,3,Not Free,ไม่เสรี,Ethiopia,False,False,47,53.43,41
+Ethiopia,ETH,231,2012,2013,21,3,7,11,3,Not Free,ไม่เสรี,Ethiopia,False,False,59,54.93,55
+Ethiopia,ETH,231,2013,2014,20,2,7,11,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,54.78,60
+Ethiopia,ETH,231,2014,2015,18,2,7,9,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,54.47,61
+Ethiopia,ETH,231,2015,2016,17,2,7,8,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,53.64,61
+Ethiopia,ETH,231,2016,2017,14,1,5,8,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,52.91,62
+Ethiopia,ETH,231,2017,2018,17,2,6,9,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,53.03,61
+Ethiopia,ETH,231,2018,2019,28,3,12,13,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,52.3,54
+Ethiopia,ETH,231,2019,2020,29,5,12,12,3,Not Free,ไม่เสรี,Ethiopia,False,False,64,52.03,52
+Ethiopia,ETH,231,2020,2021,27,4,12,11,3,Not Free,ไม่เสรี,Ethiopia,False,False,69,53.06,60
+Ethiopia,ETH,231,2021,2022,27,5,13,9,3,Not Free,ไม่เสรี,Ethiopia,False,False,69,52.87,59
+Ethiopia,ETH,231,2022,2023,26,5,11,10,3,Not Free,ไม่เสรี,Ethiopia,False,False,69,52.55,59
+Ethiopia,ETH,231,2023,2024,27,5,12,10,3,Not Free,ไม่เสรี,Ethiopia,False,False,71,53.21,61
+Ethiopia,ETH,231,2024,2025,30,7,13,10,3,Not Free,ไม่เสรี,Ethiopia,False,False,71,52.92,57
+France,FRA,250,2012,2013,80,21,31,28,1,Free,เสรี,France,False,False,59,54.93,6
+France,FRA,250,2013,2014,80,22,31,27,1,Free,เสรี,France,False,False,64,54.78,7
+France,FRA,250,2014,2015,76,22,29,25,1,Free,เสรี,France,False,False,64,54.47,9
+France,FRA,250,2015,2016,75,22,29,24,1,Free,เสรี,France,False,False,64,53.64,9
+France,FRA,250,2016,2017,74,22,28,24,1,Free,เสรี,France,False,False,64,52.91,12
+France,FRA,250,2017,2018,75,22,29,24,1,Free,เสรี,France,False,False,64,53.03,8
+France,FRA,250,2018,2019,76,22,30,24,1,Free,เสรี,France,False,False,64,52.3,8
+France,FRA,250,2019,2020,77,23,30,24,1,Free,เสรี,France,False,False,64,52.03,6
+France,FRA,250,2020,2021,78,23,30,25,1,Free,เสรี,France,False,False,69,53.06,7
+France,FRA,250,2021,2022,76,23,29,24,1,Free,เสรี,France,False,False,69,52.87,10
+France,FRA,250,2022,2023,76,23,29,24,1,Free,เสรี,France,False,False,69,52.55,9
+France,FRA,250,2023,2024,76,22,29,25,1,Free,เสรี,France,False,False,71,53.21,11
+France,FRA,250,2024,2025,76,23,29,24,1,Free,เสรี,France,False,False,71,52.92,9
+Gambia (the),GMB,270,2013,2014,35,6,14,15,3,Not Free,ไม่เสรี,Gambia,False,False,64,54.78,53
+Gambia (the),GMB,270,2014,2015,35,7,14,14,3,Not Free,ไม่เสรี,Gambia,False,False,64,54.47,53
+Gambia (the),GMB,270,2015,2016,33,7,13,13,3,Not Free,ไม่เสรี,Gambia,False,False,64,53.64,53
+Gambia (the),GMB,270,2016,2017,33,5,15,13,3,Not Free,ไม่เสรี,Gambia,False,False,64,52.91,51
+Gambia (the),GMB,270,2017,2018,45,9,21,15,2,Partly Free,เสรีบางส่วน,Gambia,False,False,64,53.03,42
+Gambia (the),GMB,270,2018,2019,48,10,23,15,2,Partly Free,เสรีบางส่วน,Gambia,False,False,64,52.3,39
+Gambia (the),GMB,270,2019,2020,49,10,22,17,2,Partly Free,เสรีบางส่วน,Gambia,False,False,64,52.03,38
+Gambia (the),GMB,270,2020,2021,53,12,22,19,2,Partly Free,เสรีบางส่วน,Gambia,False,False,69,53.06,35
+Gambia (the),GMB,270,2021,2022,56,12,24,20,2,Partly Free,เสรีบางส่วน,Gambia,False,False,69,52.87,34
+Gambia (the),GMB,270,2022,2023,56,13,24,19,2,Partly Free,เสรีบางส่วน,Gambia,False,False,69,52.55,34
+Gambia (the),GMB,270,2023,2024,56,13,25,18,2,Partly Free,เสรีบางส่วน,Gambia,False,False,71,53.21,36
+Gambia (the),GMB,270,2024,2025,56,13,25,18,2,Partly Free,เสรีบางส่วน,Gambia,False,False,71,52.92,36
+Georgia,GEO,268,2010,2011,65,13,25,27,2,Partly Free,เสรีบางส่วน,Georgia,False,False,37,51.81,12
+Georgia,GEO,268,2011,2012,70,16,25,29,1,Free,เสรี,Georgia,False,False,47,53.43,14
+Georgia,GEO,268,2012,2013,74,17,28,29,1,Free,เสรี,Georgia,False,False,59,54.93,12
+Georgia,GEO,268,2013,2014,74,17,28,29,1,Free,เสรี,Georgia,False,False,64,54.78,12
+Georgia,GEO,268,2014,2015,76,18,29,29,1,Free,เสรี,Georgia,False,False,64,54.47,9
+Georgia,GEO,268,2015,2016,75,17,29,29,1,Free,เสรี,Georgia,False,False,64,53.64,9
+Georgia,GEO,268,2016,2017,76,18,29,29,1,Free,เสรี,Georgia,False,False,64,52.91,8
+Georgia,GEO,268,2017,2018,75,19,29,27,1,Free,เสรี,Georgia,False,False,64,53.03,8
+Georgia,GEO,268,2018,2019,75,19,30,26,1,Free,เสรี,Georgia,False,False,64,52.3,10
+Georgia,GEO,268,2019,2020,76,19,31,26,1,Free,เสรี,Georgia,False,False,64,52.03,7
+Georgia,GEO,268,2020,2021,77,19,31,27,1,Free,เสรี,Georgia,False,False,69,53.06,9
+Georgia,GEO,268,2021,2022,78,19,31,28,1,Free,เสรี,Georgia,False,False,69,52.87,7
+Georgia,GEO,268,2022,2023,76,19,29,28,1,Free,เสรี,Georgia,False,False,69,52.55,9
+Georgia,GEO,268,2023,2024,74,19,28,27,1,Free,เสรี,Georgia,False,False,71,53.21,15
+Georgia,GEO,268,2024,2025,70,19,26,25,1,Free,เสรี,Georgia,False,False,71,52.92,18
+Germany,DEU,276,2010,2011,84,21,30,33,1,Free,เสรี,Germany,False,False,37,51.81,3
+Germany,DEU,276,2011,2012,85,21,32,32,1,Free,เสรี,Germany,False,False,47,53.43,3
+Germany,DEU,276,2012,2013,83,21,31,31,1,Free,เสรี,Germany,False,False,59,54.93,3
+Germany,DEU,276,2013,2014,83,21,31,31,1,Free,เสรี,Germany,False,False,64,54.78,4
+Germany,DEU,276,2014,2015,82,21,30,31,1,Free,เสรี,Germany,False,False,64,54.47,4
+Germany,DEU,276,2015,2016,81,22,30,29,1,Free,เสรี,Germany,False,False,64,53.64,5
+Germany,DEU,276,2016,2017,80,22,29,29,1,Free,เสรี,Germany,False,False,64,52.91,4
+Germany,DEU,276,2017,2018,81,22,30,29,1,Free,เสรี,Germany,False,False,64,53.03,4
+Germany,DEU,276,2018,2019,80,22,30,28,1,Free,เสรี,Germany,False,False,64,52.3,4
+Germany,DEU,276,2019,2020,80,22,30,28,1,Free,เสรี,Germany,False,False,64,52.03,4
+Germany,DEU,276,2020,2021,79,22,29,28,1,Free,เสรี,Germany,False,False,69,53.06,6
+Germany,DEU,276,2021,2022,77,23,28,26,1,Free,เสรี,Germany,False,False,69,52.87,8
+Germany,DEU,276,2022,2023,77,23,28,26,1,Free,เสรี,Germany,False,False,69,52.55,7
+Germany,DEU,276,2023,2024,77,23,28,26,1,Free,เสรี,Germany,False,False,71,53.21,10
+Germany,DEU,276,2024,2025,74,23,27,24,1,Free,เสรี,Germany,False,False,71,52.92,12
+Ghana,GHA,288,2020,2021,64,14,27,23,2,Partly Free,เสรีบางส่วน,Ghana,False,False,69,53.06,23
+Ghana,GHA,288,2021,2022,64,14,27,23,2,Partly Free,เสรีบางส่วน,Ghana,False,False,69,52.87,23
+Ghana,GHA,288,2022,2023,65,15,27,23,2,Partly Free,เสรีบางส่วน,Ghana,False,False,69,52.55,21
+Ghana,GHA,288,2023,2024,65,14,28,23,2,Partly Free,เสรีบางส่วน,Ghana,False,False,71,53.21,22
+Ghana,GHA,288,2024,2025,64,15,28,21,2,Partly Free,เสรีบางส่วน,Ghana,False,False,71,52.92,23
+Hungary,HUN,348,2011,2012,81,20,29,32,1,Free,เสรี,Hungary,False,False,47,53.43,5
+Hungary,HUN,348,2012,2013,77,20,27,30,1,Free,เสรี,Hungary,False,False,59,54.93,8
+Hungary,HUN,348,2013,2014,76,20,27,29,1,Free,เสรี,Hungary,False,False,64,54.78,10
+Hungary,HUN,348,2014,2015,76,21,26,29,1,Free,เสรี,Hungary,False,False,64,54.47,9
+Hungary,HUN,348,2015,2016,73,20,25,28,1,Free,เสรี,Hungary,False,False,64,53.64,14
+Hungary,HUN,348,2016,2017,71,21,24,26,1,Free,เสรี,Hungary,False,False,64,52.91,15
+Hungary,HUN,348,2017,2018,71,21,24,26,1,Free,เสรี,Hungary,False,False,64,53.03,15
+Hungary,HUN,348,2018,2019,72,21,24,27,1,Free,เสรี,Hungary,False,False,64,52.3,13
+Hungary,HUN,348,2019,2020,71,21,24,26,1,Free,เสรี,Hungary,False,False,64,52.03,13
+Hungary,HUN,348,2020,2021,70,21,24,25,1,Free,เสรี,Hungary,False,False,69,53.06,18
+Hungary,HUN,348,2021,2022,69,22,24,23,2,Partly Free,เสรีบางส่วน,Hungary,False,False,69,52.87,18
+Hungary,HUN,348,2022,2023,69,21,24,24,2,Partly Free,เสรีบางส่วน,Hungary,False,False,69,52.55,18
+Hungary,HUN,348,2023,2024,69,21,24,24,2,Partly Free,เสรีบางส่วน,Hungary,False,False,71,53.21,20
+Hungary,HUN,348,2024,2025,69,21,23,25,2,Partly Free,เสรีบางส่วน,Hungary,False,False,71,52.92,19
+Iceland,ISL,352,2012,2013,94,24,34,36,1,Free,เสรี,Iceland,False,False,59,54.93,1
+Iceland,ISL,352,2013,2014,94,24,34,36,1,Free,เสรี,Iceland,False,False,64,54.78,1
+Iceland,ISL,352,2014,2015,94,24,34,36,1,Free,เสรี,Iceland,False,False,64,54.47,1
+Iceland,ISL,352,2015,2016,94,24,34,36,1,Free,เสรี,Iceland,False,False,64,53.64,1
+Iceland,ISL,352,2016,2017,94,24,34,36,1,Free,เสรี,Iceland,False,False,64,52.91,1
+Iceland,ISL,352,2017,2018,94,25,34,35,1,Free,เสรี,Iceland,False,False,64,53.03,1
+Iceland,ISL,352,2018,2019,95,25,34,36,1,Free,เสรี,Iceland,False,False,64,52.3,1
+Iceland,ISL,352,2019,2020,95,25,34,36,1,Free,เสรี,Iceland,False,False,64,52.03,1
+Iceland,ISL,352,2020,2021,96,25,34,37,1,Free,เสรี,Iceland,False,False,69,53.06,1
+Iceland,ISL,352,2021,2022,95,25,34,36,1,Free,เสรี,Iceland,False,False,69,52.87,1
+Iceland,ISL,352,2022,2023,94,25,34,35,1,Free,เสรี,Iceland,False,False,69,52.55,1
+Iceland,ISL,352,2023,2024,94,25,34,35,1,Free,เสรี,Iceland,False,False,71,53.21,1
+Iceland,ISL,352,2024,2025,94,25,34,35,1,Free,เสรี,Iceland,False,False,71,52.92,1
+India,IND,356,2010,2011,64,13,27,24,2,Partly Free,เสรีบางส่วน,India,False,False,37,51.81,14
+India,IND,356,2011,2012,61,12,26,23,2,Partly Free,เสรีบางส่วน,India,False,False,47,53.43,20
+India,IND,356,2012,2013,53,10,23,20,2,Partly Free,เสรีบางส่วน,India,False,False,59,54.93,34
+India,IND,356,2013,2014,58,12,25,21,2,Partly Free,เสรีบางส่วน,India,False,False,64,54.78,30
+India,IND,356,2014,2015,60,13,25,22,2,Partly Free,เสรีบางส่วน,India,False,False,64,54.47,29
+India,IND,356,2015,2016,59,13,26,20,2,Partly Free,เสรีบางส่วน,India,False,False,64,53.64,28
+India,IND,356,2016,2017,59,13,26,20,2,Partly Free,เสรีบางส่วน,India,False,False,64,52.91,26
+India,IND,356,2017,2018,57,12,25,20,2,Partly Free,เสรีบางส่วน,India,False,False,64,53.03,31
+India,IND,356,2018,2019,55,12,24,19,2,Partly Free,เสรีบางส่วน,India,False,False,64,52.3,33
+India,IND,356,2019,2020,51,12,21,18,2,Partly Free,เสรีบางส่วน,India,False,False,64,52.03,36
+India,IND,356,2020,2021,49,11,21,17,2,Partly Free,เสรีบางส่วน,India,False,False,69,53.06,40
+India,IND,356,2021,2022,51,13,21,17,2,Partly Free,เสรีบางส่วน,India,False,False,69,52.87,37
+India,IND,356,2022,2023,50,13,20,17,2,Partly Free,เสรีบางส่วน,India,False,False,69,52.55,41
+India,IND,356,2023,2024,50,14,19,17,2,Partly Free,เสรีบางส่วน,India,False,False,71,53.21,41
+India,IND,356,2024,2025,51,15,19,17,2,Partly Free,เสรีบางส่วน,India,False,False,71,52.92,41
+Indonesia,IDN,360,2010,2011,54,11,22,21,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,37,51.81,18
+Indonesia,IDN,360,2011,2012,58,14,24,20,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,47,53.43,21
+Indonesia,IDN,360,2012,2013,59,14,24,21,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,59,54.93,26
+Indonesia,IDN,360,2013,2014,58,14,23,21,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,54.78,30
+Indonesia,IDN,360,2014,2015,58,14,23,21,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,54.47,33
+Indonesia,IDN,360,2015,2016,56,14,21,21,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,53.64,33
+Indonesia,IDN,360,2016,2017,53,15,20,18,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,52.91,37
+Indonesia,IDN,360,2017,2018,54,15,20,19,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,53.03,35
+Indonesia,IDN,360,2018,2019,51,14,19,18,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,52.3,36
+Indonesia,IDN,360,2019,2020,49,14,18,17,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,64,52.03,38
+Indonesia,IDN,360,2020,2021,48,14,17,17,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,69,53.06,42
+Indonesia,IDN,360,2021,2022,49,14,17,18,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,69,52.87,41
+Indonesia,IDN,360,2022,2023,47,14,17,16,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,69,52.55,43
+Indonesia,IDN,360,2023,2024,49,15,18,16,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,71,53.21,43
+Indonesia,IDN,360,2024,2025,48,15,17,16,2,Partly Free,เสรีบางส่วน,Indonesia,True,False,71,52.92,44
+Iran (Islamic Republic of),IRN,364,2010,2011,11,4,6,1,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,37,51.81,37
+Iran (Islamic Republic of),IRN,364,2011,2012,10,4,3,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,47,53.43,47
+Iran (Islamic Republic of),IRN,364,2012,2013,9,3,3,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,59,54.93,59
+Iran (Islamic Republic of),IRN,364,2013,2014,11,3,4,4,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,54.78,64
+Iran (Islamic Republic of),IRN,364,2014,2015,13,5,4,4,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,54.47,62
+Iran (Islamic Republic of),IRN,364,2015,2016,13,6,4,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,53.64,62
+Iran (Islamic Republic of),IRN,364,2016,2017,15,7,5,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,52.91,61
+Iran (Islamic Republic of),IRN,364,2017,2018,15,6,5,4,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,53.03,63
+Iran (Islamic Republic of),IRN,364,2018,2019,15,7,5,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,52.3,63
+Iran (Islamic Republic of),IRN,364,2019,2020,15,7,5,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,64,52.03,63
+Iran (Islamic Republic of),IRN,364,2020,2021,16,8,5,3,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,69,53.06,68
+Iran (Islamic Republic of),IRN,364,2021,2022,16,7,5,4,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,69,52.87,67
+Iran (Islamic Republic of),IRN,364,2022,2023,11,6,4,1,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,69,52.55,67
+Iran (Islamic Republic of),IRN,364,2023,2024,12,7,4,1,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,71,53.21,69
+Iran (Islamic Republic of),IRN,364,2024,2025,13,8,4,1,3,Not Free,ไม่เสรี,Iran (Islamic Republic of),False,False,71,52.92,69
+Iraq,IRQ,368,2020,2021,41,11,16,14,2,Partly Free,เสรีบางส่วน,Iraq,False,False,69,53.06,48
+Iraq,IRQ,368,2021,2022,42,12,16,14,2,Partly Free,เสรีบางส่วน,Iraq,False,False,69,52.87,49
+Iraq,IRQ,368,2022,2023,43,11,17,15,2,Partly Free,เสรีบางส่วน,Iraq,False,False,69,52.55,46
+Iraq,IRQ,368,2023,2024,40,10,16,14,2,Partly Free,เสรีบางส่วน,Iraq,False,False,71,53.21,50
+Iraq,IRQ,368,2024,2025,41,11,16,14,2,Partly Free,เสรีบางส่วน,Iraq,False,False,71,52.92,50
+Italy,ITA,380,2010,2011,74,19,27,28,1,Free,เสรี,Italy,False,False,37,51.81,6
+Italy,ITA,380,2011,2012,77,21,28,28,1,Free,เสรี,Italy,False,False,47,53.43,6
+Italy,ITA,380,2012,2013,77,20,29,28,1,Free,เสรี,Italy,False,False,59,54.93,8
+Italy,ITA,380,2013,2014,78,21,29,28,1,Free,เสรี,Italy,False,False,64,54.78,8
+Italy,ITA,380,2014,2015,77,21,29,27,1,Free,เสรี,Italy,False,False,64,54.47,8
+Italy,ITA,380,2015,2016,75,21,29,25,1,Free,เสรี,Italy,False,False,64,53.64,9
+Italy,ITA,380,2016,2017,75,21,29,25,1,Free,เสรี,Italy,False,False,64,52.91,10
+Italy,ITA,380,2017,2018,75,21,29,25,1,Free,เสรี,Italy,False,False,64,53.03,8
+Italy,ITA,380,2018,2019,75,21,30,24,1,Free,เสรี,Italy,False,False,64,52.3,10
+Italy,ITA,380,2019,2020,76,21,30,25,1,Free,เสรี,Italy,False,False,64,52.03,7
+Italy,ITA,380,2020,2021,76,21,30,25,1,Free,เสรี,Italy,False,False,69,53.06,10
+Italy,ITA,380,2021,2022,75,21,29,25,1,Free,เสรี,Italy,False,False,69,52.87,13
+Italy,ITA,380,2022,2023,75,21,29,25,1,Free,เสรี,Italy,False,False,69,52.55,13
+Italy,ITA,380,2023,2024,75,21,29,25,1,Free,เสรี,Italy,False,False,71,53.21,14
+Italy,ITA,380,2024,2025,74,22,28,24,1,Free,เสรี,Italy,False,False,71,52.92,12
+Japan,JPN,392,2012,2013,78,21,28,29,1,Free,เสรี,Japan,False,False,59,54.93,7
+Japan,JPN,392,2013,2014,78,21,28,29,1,Free,เสรี,Japan,False,False,64,54.78,8
+Japan,JPN,392,2014,2015,78,21,28,29,1,Free,เสรี,Japan,False,False,64,54.47,7
+Japan,JPN,392,2015,2016,78,21,28,29,1,Free,เสรี,Japan,False,False,64,53.64,7
+Japan,JPN,392,2016,2017,77,21,28,28,1,Free,เสรี,Japan,False,False,64,52.91,7
+Japan,JPN,392,2017,2018,75,21,27,27,1,Free,เสรี,Japan,False,False,64,53.03,8
+Japan,JPN,392,2018,2019,73,21,28,24,1,Free,เสรี,Japan,False,False,64,52.3,12
+Japan,JPN,392,2019,2020,75,21,28,26,1,Free,เสรี,Japan,False,False,64,52.03,11
+Japan,JPN,392,2020,2021,76,21,29,26,1,Free,เสรี,Japan,False,False,69,53.06,10
+Japan,JPN,392,2021,2022,77,22,29,26,1,Free,เสรี,Japan,False,False,69,52.87,8
+Japan,JPN,392,2022,2023,77,22,29,26,1,Free,เสรี,Japan,False,False,69,52.55,7
+Japan,JPN,392,2023,2024,78,22,30,26,1,Free,เสรี,Japan,False,False,71,53.21,8
+Japan,JPN,392,2024,2025,78,22,30,26,1,Free,เสรี,Japan,False,False,71,52.92,8
+Jordan,JOR,400,2010,2011,58,13,24,21,2,Partly Free,เสรีบางส่วน,Jordan,False,False,37,51.81,16
+Jordan,JOR,400,2011,2012,55,12,23,20,2,Partly Free,เสรีบางส่วน,Jordan,False,False,47,53.43,24
+Jordan,JOR,400,2012,2013,54,12,22,20,2,Partly Free,เสรีบางส่วน,Jordan,False,False,59,54.93,33
+Jordan,JOR,400,2013,2014,52,13,20,19,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,54.78,38
+Jordan,JOR,400,2014,2015,50,13,19,18,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,54.47,39
+Jordan,JOR,400,2015,2016,49,12,19,18,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,53.64,38
+Jordan,JOR,400,2016,2017,47,12,18,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,52.91,39
+Jordan,JOR,400,2017,2018,51,14,20,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,53.03,38
+Jordan,JOR,400,2018,2019,47,14,18,15,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,52.3,40
+Jordan,JOR,400,2019,2020,49,14,19,16,2,Partly Free,เสรีบางส่วน,Jordan,False,False,64,52.03,38
+Jordan,JOR,400,2020,2021,47,13,17,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,69,53.06,45
+Jordan,JOR,400,2021,2022,47,14,17,16,2,Partly Free,เสรีบางส่วน,Jordan,False,False,69,52.87,44
+Jordan,JOR,400,2022,2023,47,13,17,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,69,52.55,43
+Jordan,JOR,400,2023,2024,47,14,16,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,71,53.21,46
+Jordan,JOR,400,2024,2025,47,14,16,17,2,Partly Free,เสรีบางส่วน,Jordan,False,False,71,52.92,45
+Kazakhstan,KAZ,398,2010,2011,45,9,13,23,2,Partly Free,เสรีบางส่วน,Kazakhstan,False,False,37,51.81,25
+Kazakhstan,KAZ,398,2011,2012,42,10,12,20,2,Partly Free,เสรีบางส่วน,Kazakhstan,False,False,47,53.43,33
+Kazakhstan,KAZ,398,2012,2013,41,10,12,19,2,Partly Free,เสรีบางส่วน,Kazakhstan,False,False,59,54.93,44
+Kazakhstan,KAZ,398,2013,2014,40,10,12,18,2,Partly Free,เสรีบางส่วน,Kazakhstan,False,False,64,54.78,47
+Kazakhstan,KAZ,398,2014,2015,39,11,12,16,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,54.47,47
+Kazakhstan,KAZ,398,2015,2016,37,11,12,14,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,53.64,49
+Kazakhstan,KAZ,398,2016,2017,38,12,12,14,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,52.91,45
+Kazakhstan,KAZ,398,2017,2018,38,13,11,14,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,53.03,46
+Kazakhstan,KAZ,398,2018,2019,32,10,11,11,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,52.3,50
+Kazakhstan,KAZ,398,2019,2020,32,10,11,11,3,Not Free,ไม่เสรี,Kazakhstan,False,False,64,52.03,49
+Kazakhstan,KAZ,398,2020,2021,33,11,11,11,3,Not Free,ไม่เสรี,Kazakhstan,False,False,69,53.06,54
+Kazakhstan,KAZ,398,2021,2022,32,10,11,11,3,Not Free,ไม่เสรี,Kazakhstan,False,False,69,52.87,53
+Kazakhstan,KAZ,398,2022,2023,34,12,12,10,3,Not Free,ไม่เสรี,Kazakhstan,False,False,69,52.55,53
+Kazakhstan,KAZ,398,2023,2024,34,12,12,10,3,Not Free,ไม่เสรี,Kazakhstan,False,False,71,53.21,54
+Kazakhstan,KAZ,398,2024,2025,37,14,12,11,3,Not Free,ไม่เสรี,Kazakhstan,False,False,71,52.92,53
+Kenya,KEN,404,2010,2011,68,13,26,29,2,Partly Free,เสรีบางส่วน,Kenya,False,False,37,51.81,9
+Kenya,KEN,404,2011,2012,71,15,28,28,1,Free,เสรี,Kenya,False,False,47,53.43,13
+Kenya,KEN,404,2012,2013,72,16,28,28,1,Free,เสรี,Kenya,False,False,59,54.93,15
+Kenya,KEN,404,2013,2014,72,16,28,28,1,Free,เสรี,Kenya,False,False,64,54.78,16
+Kenya,KEN,404,2014,2015,71,16,28,27,1,Free,เสรี,Kenya,False,False,64,54.47,17
+Kenya,KEN,404,2015,2016,71,17,28,26,1,Free,เสรี,Kenya,False,False,64,53.64,16
+Kenya,KEN,404,2016,2017,71,18,28,25,1,Free,เสรี,Kenya,False,False,64,52.91,15
+Kenya,KEN,404,2017,2018,68,18,27,23,2,Partly Free,เสรีบางส่วน,Kenya,False,False,64,53.03,19
+Kenya,KEN,404,2018,2019,68,17,28,23,2,Partly Free,เสรีบางส่วน,Kenya,False,False,64,52.3,16
+Kenya,KEN,404,2019,2020,67,17,28,22,2,Partly Free,เสรีบางส่วน,Kenya,False,False,64,52.03,16
+Kenya,KEN,404,2020,2021,66,16,27,23,2,Partly Free,เสรีบางส่วน,Kenya,False,False,69,53.06,20
+Kenya,KEN,404,2021,2022,68,16,27,25,2,Partly Free,เสรีบางส่วน,Kenya,False,False,69,52.87,19
+Kenya,KEN,404,2022,2023,66,16,27,23,2,Partly Free,เสรีบางส่วน,Kenya,False,False,69,52.55,20
+Kenya,KEN,404,2023,2024,64,16,25,23,2,Partly Free,เสรีบางส่วน,Kenya,False,False,71,53.21,25
+Kenya,KEN,404,2024,2025,58,14,24,20,2,Partly Free,เสรีบางส่วน,Kenya,False,False,71,52.92,35
+Korea (the Republic of),KOR,410,2010,2011,68,22,23,23,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,37,51.81,9
+Korea (the Republic of),KOR,410,2011,2012,66,22,23,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,47,53.43,16
+Korea (the Republic of),KOR,410,2012,2013,68,22,22,24,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,59,54.93,19
+Korea (the Republic of),KOR,410,2013,2014,67,22,21,24,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,54.78,20
+Korea (the Republic of),KOR,410,2014,2015,66,22,21,23,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,54.47,21
+Korea (the Republic of),KOR,410,2015,2016,64,22,20,22,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,53.64,22
+Korea (the Republic of),KOR,410,2016,2017,65,22,22,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,52.91,21
+Korea (the Republic of),KOR,410,2017,2018,64,22,22,20,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,53.03,20
+Korea (the Republic of),KOR,410,2018,2019,64,22,23,19,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,52.3,19
+Korea (the Republic of),KOR,410,2019,2020,66,22,24,20,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,64,52.03,17
+Korea (the Republic of),KOR,410,2020,2021,67,22,24,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,69,53.06,19
+Korea (the Republic of),KOR,410,2021,2022,67,22,24,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,69,52.87,20
+Korea (the Republic of),KOR,410,2022,2023,67,22,24,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,69,52.55,19
+Korea (the Republic of),KOR,410,2023,2024,66,22,23,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,71,53.21,21
+Korea (the Republic of),KOR,410,2024,2025,65,21,23,21,2,Partly Free,เสรีบางส่วน,Korea (the Republic of),False,False,71,52.92,21
+Kyrgyzstan,KGZ,417,2011,2012,65,12,25,28,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,47,53.43,18
+Kyrgyzstan,KGZ,417,2012,2013,65,13,25,27,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,59,54.93,23
+Kyrgyzstan,KGZ,417,2013,2014,66,13,26,27,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,54.78,23
+Kyrgyzstan,KGZ,417,2014,2015,65,14,27,24,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,54.47,22
+Kyrgyzstan,KGZ,417,2015,2016,65,15,28,22,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,53.64,21
+Kyrgyzstan,KGZ,417,2016,2017,63,15,26,22,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,52.91,22
+Kyrgyzstan,KGZ,417,2017,2018,62,15,25,22,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,53.03,22
+Kyrgyzstan,KGZ,417,2018,2019,61,15,25,21,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,52.3,24
+Kyrgyzstan,KGZ,417,2019,2020,56,14,24,18,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,64,52.03,30
+Kyrgyzstan,KGZ,417,2020,2021,53,13,23,17,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,69,53.06,35
+Kyrgyzstan,KGZ,417,2021,2022,53,15,22,16,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,69,52.87,36
+Kyrgyzstan,KGZ,417,2022,2023,52,16,20,16,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,69,52.55,37
+Kyrgyzstan,KGZ,417,2023,2024,48,15,18,15,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,71,53.21,44
+Kyrgyzstan,KGZ,417,2024,2025,47,15,17,15,2,Partly Free,เสรีบางส่วน,Kyrgyzstan,False,False,71,52.92,45
+Lebanon,LBN,422,2012,2013,55,11,25,19,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,59,54.93,31
+Lebanon,LBN,422,2013,2014,53,11,23,19,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,54.78,36
+Lebanon,LBN,422,2014,2015,55,12,23,20,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,54.47,36
+Lebanon,LBN,422,2015,2016,55,12,23,20,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,53.64,36
+Lebanon,LBN,422,2016,2017,54,11,23,20,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,52.91,36
+Lebanon,LBN,422,2017,2018,53,12,23,18,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,53.03,36
+Lebanon,LBN,422,2018,2019,52,12,23,17,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,52.3,35
+Lebanon,LBN,422,2019,2020,52,12,22,18,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,64,52.03,33
+Lebanon,LBN,422,2020,2021,51,11,22,18,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,69,53.06,38
+Lebanon,LBN,422,2021,2022,51,11,22,18,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,69,52.87,37
+Lebanon,LBN,422,2022,2023,50,9,22,19,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,69,52.55,41
+Lebanon,LBN,422,2023,2024,50,9,22,19,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,71,53.21,41
+Lebanon,LBN,422,2024,2025,50,10,22,18,2,Partly Free,เสรีบางส่วน,Lebanon,False,False,71,52.92,42
+Libya,LBY,434,2011,2012,57,7,26,24,2,Partly Free,เสรีบางส่วน,Libya,False,False,47,53.43,22
+Libya,LBY,434,2012,2013,55,8,26,21,2,Partly Free,เสรีบางส่วน,Libya,False,False,59,54.93,31
+Libya,LBY,434,2013,2014,52,7,26,19,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,54.78,38
+Libya,LBY,434,2014,2015,46,5,23,18,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,54.47,42
+Libya,LBY,434,2015,2016,42,5,22,15,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,53.64,44
+Libya,LBY,434,2016,2017,46,5,23,18,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,52.91,41
+Libya,LBY,434,2017,2018,49,8,24,17,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,53.03,39
+Libya,LBY,434,2018,2019,49,8,24,17,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,52.3,37
+Libya,LBY,434,2019,2020,50,8,25,17,2,Partly Free,เสรีบางส่วน,Libya,False,False,64,52.03,37
+Libya,LBY,434,2020,2021,48,7,25,16,2,Partly Free,เสรีบางส่วน,Libya,False,False,69,53.06,42
+Libya,LBY,434,2021,2022,44,8,21,15,2,Partly Free,เสรีบางส่วน,Libya,False,False,69,52.87,46
+Libya,LBY,434,2022,2023,42,7,21,14,2,Partly Free,เสรีบางส่วน,Libya,False,False,69,52.55,47
+Libya,LBY,434,2023,2024,43,8,21,14,2,Partly Free,เสรีบางส่วน,Libya,False,False,71,53.21,47
+Libya,LBY,434,2024,2025,43,8,21,14,2,Partly Free,เสรีบางส่วน,Libya,False,False,71,52.92,48
+Malawi,MWI,454,2012,2013,58,9,24,25,2,Partly Free,เสรีบางส่วน,Malawi,False,False,59,54.93,28
+Malawi,MWI,454,2013,2014,58,9,24,25,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,54.78,30
+Malawi,MWI,454,2014,2015,60,10,23,27,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,54.47,29
+Malawi,MWI,454,2015,2016,59,9,25,25,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,53.64,28
+Malawi,MWI,454,2016,2017,58,9,24,25,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,52.91,30
+Malawi,MWI,454,2017,2018,61,9,25,27,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,53.03,24
+Malawi,MWI,454,2018,2019,57,9,25,23,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,52.3,28
+Malawi,MWI,454,2019,2020,60,11,25,24,2,Partly Free,เสรีบางส่วน,Malawi,False,False,64,52.03,25
+Malawi,MWI,454,2020,2021,59,11,25,23,2,Partly Free,เสรีบางส่วน,Malawi,False,False,69,53.06,30
+Malawi,MWI,454,2021,2022,57,11,25,21,2,Partly Free,เสรีบางส่วน,Malawi,False,False,69,52.87,32
+Malawi,MWI,454,2022,2023,60,11,25,24,2,Partly Free,เสรีบางส่วน,Malawi,False,False,69,52.55,28
+Malawi,MWI,454,2023,2024,59,11,26,22,2,Partly Free,เสรีบางส่วน,Malawi,False,False,71,53.21,32
+Malawi,MWI,454,2024,2025,61,11,26,24,2,Partly Free,เสรีบางส่วน,Malawi,False,False,71,52.92,28
+Malaysia,MYS,458,2010,2011,59,16,24,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,37,51.81,15
+Malaysia,MYS,458,2011,2012,57,15,21,21,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,47,53.43,22
+Malaysia,MYS,458,2012,2013,56,16,20,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,59,54.93,30
+Malaysia,MYS,458,2013,2014,58,17,21,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,54.78,30
+Malaysia,MYS,458,2014,2015,57,17,21,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,54.47,34
+Malaysia,MYS,458,2015,2016,55,16,19,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,53.64,36
+Malaysia,MYS,458,2016,2017,56,17,19,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,52.91,33
+Malaysia,MYS,458,2017,2018,55,17,19,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,53.03,32
+Malaysia,MYS,458,2018,2019,57,17,21,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,52.3,28
+Malaysia,MYS,458,2019,2020,58,17,21,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,64,52.03,28
+Malaysia,MYS,458,2020,2021,58,18,21,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,69,53.06,33
+Malaysia,MYS,458,2021,2022,59,18,22,19,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,69,52.87,29
+Malaysia,MYS,458,2022,2023,61,19,22,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,69,52.55,26
+Malaysia,MYS,458,2023,2024,60,19,21,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,71,53.21,29
+Malaysia,MYS,458,2024,2025,60,19,21,20,2,Partly Free,เสรีบางส่วน,Malaysia,True,False,71,52.92,31
+Mexico,MEX,484,2010,2011,68,13,25,30,2,Partly Free,เสรีบางส่วน,Mexico,False,False,37,51.81,9
+Mexico,MEX,484,2011,2012,63,14,24,25,2,Partly Free,เสรีบางส่วน,Mexico,False,False,47,53.43,19
+Mexico,MEX,484,2012,2013,62,14,25,23,2,Partly Free,เสรีบางส่วน,Mexico,False,False,59,54.93,25
+Mexico,MEX,484,2013,2014,61,15,25,21,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,54.78,27
+Mexico,MEX,484,2014,2015,61,16,25,20,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,54.47,27
+Mexico,MEX,484,2015,2016,62,17,25,20,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,53.64,23
+Mexico,MEX,484,2016,2017,61,18,25,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,52.91,24
+Mexico,MEX,484,2017,2018,60,18,24,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,53.03,25
+Mexico,MEX,484,2018,2019,60,17,25,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,52.3,26
+Mexico,MEX,484,2019,2020,61,17,26,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,64,52.03,23
+Mexico,MEX,484,2020,2021,60,18,25,17,2,Partly Free,เสรีบางส่วน,Mexico,False,False,69,53.06,29
+Mexico,MEX,484,2021,2022,61,18,25,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,69,52.87,26
+Mexico,MEX,484,2022,2023,62,18,25,19,2,Partly Free,เสรีบางส่วน,Mexico,False,False,69,52.55,25
+Mexico,MEX,484,2023,2024,61,18,25,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,71,53.21,28
+Mexico,MEX,484,2024,2025,61,18,25,18,2,Partly Free,เสรีบางส่วน,Mexico,False,False,71,52.92,28
+Morocco,MAR,504,2012,2013,58,14,28,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,59,54.93,28
+Morocco,MAR,504,2013,2014,56,14,25,17,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,54.78,35
+Morocco,MAR,504,2014,2015,57,14,26,17,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,54.47,34
+Morocco,MAR,504,2015,2016,56,13,26,17,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,53.64,33
+Morocco,MAR,504,2016,2017,55,14,25,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,52.91,34
+Morocco,MAR,504,2017,2018,55,14,25,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,53.03,32
+Morocco,MAR,504,2018,2019,54,14,24,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,52.3,34
+Morocco,MAR,504,2019,2020,52,14,23,15,2,Partly Free,เสรีบางส่วน,Morocco,False,False,64,52.03,33
+Morocco,MAR,504,2020,2021,53,15,22,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,69,53.06,35
+Morocco,MAR,504,2021,2022,51,15,21,15,2,Partly Free,เสรีบางส่วน,Morocco,False,False,69,52.87,37
+Morocco,MAR,504,2022,2023,53,17,21,15,2,Partly Free,เสรีบางส่วน,Morocco,False,False,69,52.55,36
+Morocco,MAR,504,2023,2024,54,17,21,16,2,Partly Free,เสรีบางส่วน,Morocco,False,False,71,53.21,37
+Morocco,MAR,504,2024,2025,54,18,21,15,2,Partly Free,เสรีบางส่วน,Morocco,False,False,71,52.92,37
+Myanmar,MMR,104,2010,2011,12,2,6,4,3,Not Free,ไม่เสรี,Myanmar,True,False,37,51.81,36
+Myanmar,MMR,104,2011,2012,25,3,12,10,3,Not Free,ไม่เสรี,Myanmar,True,False,47,53.43,41
+Myanmar,MMR,104,2012,2013,38,5,19,14,3,Not Free,ไม่เสรี,Myanmar,True,False,59,54.93,47
+Myanmar,MMR,104,2013,2014,40,6,19,15,2,Partly Free,เสรีบางส่วน,Myanmar,True,False,64,54.78,47
+Myanmar,MMR,104,2014,2015,37,7,18,12,3,Not Free,ไม่เสรี,Myanmar,True,False,64,54.47,50
+Myanmar,MMR,104,2015,2016,39,8,18,13,3,Not Free,ไม่เสรี,Myanmar,True,False,64,53.64,46
+Myanmar,MMR,104,2016,2017,37,8,18,11,3,Not Free,ไม่เสรี,Myanmar,True,False,64,52.91,46
+Myanmar,MMR,104,2017,2018,36,10,16,10,3,Not Free,ไม่เสรี,Myanmar,True,False,64,53.03,47
+Myanmar,MMR,104,2018,2019,36,10,16,10,3,Not Free,ไม่เสรี,Myanmar,True,False,64,52.3,47
+Myanmar,MMR,104,2019,2020,31,7,13,11,3,Not Free,ไม่เสรี,Myanmar,True,False,64,52.03,50
+Myanmar,MMR,104,2020,2021,17,4,7,6,3,Not Free,ไม่เสรี,Myanmar,True,False,69,53.06,67
+Myanmar,MMR,104,2021,2022,12,2,6,4,3,Not Free,ไม่เสรี,Myanmar,True,False,69,52.87,68
+Myanmar,MMR,104,2022,2023,10,2,5,3,3,Not Free,ไม่เสรี,Myanmar,True,False,69,52.55,68
+Myanmar,MMR,104,2023,2024,9,2,5,2,3,Not Free,ไม่เสรี,Myanmar,True,False,71,53.21,70
+Myanmar,MMR,104,2024,2025,9,2,5,2,3,Not Free,ไม่เสรี,Myanmar,True,False,71,52.92,70
+Netherlands (the),NLD,528,2023,2024,83,24,29,30,1,Free,เสรี,Netherlands,False,False,71,53.21,6
+Netherlands (the),NLD,528,2024,2025,84,24,30,30,1,Free,เสรี,Netherlands,False,False,71,52.92,6
+Nicaragua,NIC,558,2020,2021,48,12,18,18,2,Partly Free,เสรีบางส่วน,Nicaragua,False,False,69,53.06,42
+Nicaragua,NIC,558,2021,2022,45,11,17,17,2,Partly Free,เสรีบางส่วน,Nicaragua,False,False,69,52.87,45
+Nicaragua,NIC,558,2022,2023,42,11,16,15,2,Partly Free,เสรีบางส่วน,Nicaragua,False,False,69,52.55,47
+Nicaragua,NIC,558,2023,2024,41,11,16,14,2,Partly Free,เสรีบางส่วน,Nicaragua,False,False,71,53.21,49
+Nicaragua,NIC,558,2024,2025,38,11,14,13,3,Not Free,ไม่เสรี,Nicaragua,False,False,71,52.92,52
+Nigeria,NGA,566,2010,2011,65,12,25,28,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,37,51.81,12
+Nigeria,NGA,566,2011,2012,67,13,26,28,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,47,53.43,15
+Nigeria,NGA,566,2012,2013,69,15,27,27,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,59,54.93,18
+Nigeria,NGA,566,2013,2014,67,15,27,25,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,54.78,20
+Nigeria,NGA,566,2014,2015,67,15,27,25,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,54.47,20
+Nigeria,NGA,566,2015,2016,66,15,28,23,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,53.64,20
+Nigeria,NGA,566,2016,2017,66,16,28,22,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,52.91,20
+Nigeria,NGA,566,2017,2018,63,16,25,22,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,53.03,21
+Nigeria,NGA,566,2018,2019,64,17,26,21,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,52.3,19
+Nigeria,NGA,566,2019,2020,60,16,26,18,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,64,52.03,25
+Nigeria,NGA,566,2020,2021,59,17,25,17,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,69,53.06,30
+Nigeria,NGA,566,2021,2022,57,16,24,17,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,69,52.87,32
+Nigeria,NGA,566,2022,2023,60,17,25,18,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,69,52.55,28
+Nigeria,NGA,566,2023,2024,59,17,24,18,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,71,53.21,32
+Nigeria,NGA,566,2024,2025,59,17,24,18,2,Partly Free,เสรีบางส่วน,Nigeria,False,False,71,52.92,33
+Pakistan,PAK,586,2010,2011,45,9,18,18,2,Partly Free,เสรีบางส่วน,Pakistan,False,False,37,51.81,25
+Pakistan,PAK,586,2011,2012,37,6,17,14,3,Not Free,ไม่เสรี,Pakistan,False,False,47,53.43,36
+Pakistan,PAK,586,2012,2013,33,5,15,13,3,Not Free,ไม่เสรี,Pakistan,False,False,59,54.93,49
+Pakistan,PAK,586,2013,2014,31,5,15,11,3,Not Free,ไม่เสรี,Pakistan,False,False,64,54.78,55
+Pakistan,PAK,586,2014,2015,31,5,15,11,3,Not Free,ไม่เสรี,Pakistan,False,False,64,54.47,55
+Pakistan,PAK,586,2015,2016,31,7,15,9,3,Not Free,ไม่เสรี,Pakistan,False,False,64,53.64,55
+Pakistan,PAK,586,2016,2017,29,6,15,8,3,Not Free,ไม่เสรี,Pakistan,False,False,64,52.91,55
+Pakistan,PAK,586,2017,2018,27,5,15,7,3,Not Free,ไม่เสรี,Pakistan,False,False,64,53.03,56
+Pakistan,PAK,586,2018,2019,26,5,14,7,3,Not Free,ไม่เสรี,Pakistan,False,False,64,52.3,56
+Pakistan,PAK,586,2019,2020,26,5,14,7,3,Not Free,ไม่เสรี,Pakistan,False,False,64,52.03,57
+Pakistan,PAK,586,2020,2021,25,5,13,7,3,Not Free,ไม่เสรี,Pakistan,False,False,69,53.06,63
+Pakistan,PAK,586,2021,2022,26,6,13,7,3,Not Free,ไม่เสรี,Pakistan,False,False,69,52.87,62
+Pakistan,PAK,586,2022,2023,26,5,13,8,3,Not Free,ไม่เสรี,Pakistan,False,False,69,52.55,59
+Pakistan,PAK,586,2023,2024,27,6,13,8,3,Not Free,ไม่เสรี,Pakistan,False,False,71,53.21,61
+Pakistan,PAK,586,2024,2025,27,6,13,8,3,Not Free,ไม่เสรี,Pakistan,False,False,71,52.92,62
+Philippines (the),PHL,608,2011,2012,77,15,30,32,1,Free,เสรี,Philippines,True,False,47,53.43,6
+Philippines (the),PHL,608,2012,2013,75,15,30,30,1,Free,เสรี,Philippines,True,False,59,54.93,11
+Philippines (the),PHL,608,2013,2014,73,15,30,28,1,Free,เสรี,Philippines,True,False,64,54.78,14
+Philippines (the),PHL,608,2014,2015,73,15,30,28,1,Free,เสรี,Philippines,True,False,64,54.47,13
+Philippines (the),PHL,608,2015,2016,74,16,30,28,1,Free,เสรี,Philippines,True,False,64,53.64,13
+Philippines (the),PHL,608,2016,2017,72,16,29,27,1,Free,เสรี,Philippines,True,False,64,52.91,14
+Philippines (the),PHL,608,2017,2018,69,16,29,24,2,Partly Free,เสรีบางส่วน,Philippines,True,False,64,53.03,16
+Philippines (the),PHL,608,2018,2019,66,16,27,23,2,Partly Free,เสรีบางส่วน,Philippines,True,False,64,52.3,18
+Philippines (the),PHL,608,2019,2020,64,16,26,22,2,Partly Free,เสรีบางส่วน,Philippines,True,False,64,52.03,19
+Philippines (the),PHL,608,2020,2021,65,17,26,22,2,Partly Free,เสรีบางส่วน,Philippines,True,False,69,53.06,21
+Philippines (the),PHL,608,2021,2022,65,17,26,22,2,Partly Free,เสรีบางส่วน,Philippines,True,False,69,52.87,21
+Philippines (the),PHL,608,2022,2023,61,16,23,22,2,Partly Free,เสรีบางส่วน,Philippines,True,False,69,52.55,26
+Philippines (the),PHL,608,2023,2024,60,16,23,21,2,Partly Free,เสรีบางส่วน,Philippines,True,False,71,53.21,29
+Philippines (the),PHL,608,2024,2025,61,17,23,21,2,Partly Free,เสรีบางส่วน,Philippines,True,False,71,52.92,28
+Russian Federation (the),RUS,643,2010,2011,48,13,18,17,2,Partly Free,เสรีบางส่วน,Russian Federation,False,False,37,51.81,22
+Russian Federation (the),RUS,643,2011,2012,48,14,17,17,2,Partly Free,เสรีบางส่วน,Russian Federation,False,False,47,53.43,30
+Russian Federation (the),RUS,643,2012,2013,46,15,16,15,2,Partly Free,เสรีบางส่วน,Russian Federation,False,False,59,54.93,41
+Russian Federation (the),RUS,643,2013,2014,40,15,13,12,2,Partly Free,เสรีบางส่วน,Russian Federation,False,False,64,54.78,47
+Russian Federation (the),RUS,643,2014,2015,38,15,12,11,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,54.47,49
+Russian Federation (the),RUS,643,2015,2016,35,15,12,8,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,53.64,51
+Russian Federation (the),RUS,643,2016,2017,34,14,12,8,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,52.91,49
+Russian Federation (the),RUS,643,2017,2018,33,13,11,9,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,53.03,52
+Russian Federation (the),RUS,643,2018,2019,31,12,11,8,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,52.3,51
+Russian Federation (the),RUS,643,2019,2020,30,11,11,8,3,Not Free,ไม่เสรี,Russian Federation,False,False,64,52.03,51
+Russian Federation (the),RUS,643,2020,2021,30,12,10,8,3,Not Free,ไม่เสรี,Russian Federation,False,False,69,53.06,56
+Russian Federation (the),RUS,643,2021,2022,23,11,6,6,3,Not Free,ไม่เสรี,Russian Federation,False,False,69,52.87,64
+Russian Federation (the),RUS,643,2022,2023,21,10,5,6,3,Not Free,ไม่เสรี,Russian Federation,False,False,69,52.55,65
+Russian Federation (the),RUS,643,2023,2024,20,10,5,5,3,Not Free,ไม่เสรี,Russian Federation,False,False,71,53.21,67
+Russian Federation (the),RUS,643,2024,2025,17,10,4,3,3,Not Free,ไม่เสรี,Russian Federation,False,False,71,52.92,68
+Rwanda,RWA,646,2010,2011,50,11,16,23,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,37,51.81,21
+Rwanda,RWA,646,2011,2012,49,12,16,21,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,47,53.43,29
+Rwanda,RWA,646,2012,2013,52,13,17,22,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,59,54.93,36
+Rwanda,RWA,646,2013,2014,50,13,16,21,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,54.78,41
+Rwanda,RWA,646,2014,2015,50,14,15,21,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,54.47,39
+Rwanda,RWA,646,2015,2016,49,15,14,20,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,53.64,38
+Rwanda,RWA,646,2016,2017,47,15,13,19,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,52.91,39
+Rwanda,RWA,646,2017,2018,45,14,13,18,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,53.03,42
+Rwanda,RWA,646,2018,2019,41,13,12,16,2,Partly Free,เสรีบางส่วน,Rwanda,False,False,64,52.3,44
+Rwanda,RWA,646,2019,2020,39,13,12,14,3,Not Free,ไม่เสรี,Rwanda,False,False,64,52.03,44
+Rwanda,RWA,646,2020,2021,38,13,11,14,3,Not Free,ไม่เสรี,Rwanda,False,False,69,53.06,50
+Rwanda,RWA,646,2021,2022,37,13,11,13,3,Not Free,ไม่เสรี,Rwanda,False,False,69,52.87,52
+Rwanda,RWA,646,2022,2023,37,13,11,13,3,Not Free,ไม่เสรี,Rwanda,False,False,69,52.55,51
+Rwanda,RWA,646,2023,2024,36,13,11,12,3,Not Free,ไม่เสรี,Rwanda,False,False,71,53.21,53
+Rwanda,RWA,646,2024,2025,34,13,11,10,3,Not Free,ไม่เสรี,Rwanda,False,False,71,52.92,54
+Saudi Arabia,SAU,682,2010,2011,30,11,8,11,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,37,51.81,31
+Saudi Arabia,SAU,682,2011,2012,29,11,9,9,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,47,53.43,38
+Saudi Arabia,SAU,682,2012,2013,30,11,11,8,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,59,54.93,51
+Saudi Arabia,SAU,682,2013,2014,27,10,11,6,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,54.78,56
+Saudi Arabia,SAU,682,2014,2015,27,10,11,6,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,54.47,57
+Saudi Arabia,SAU,682,2015,2016,28,11,11,6,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,53.64,57
+Saudi Arabia,SAU,682,2016,2017,28,11,11,6,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,52.91,56
+Saudi Arabia,SAU,682,2017,2018,27,11,10,6,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,53.03,56
+Saudi Arabia,SAU,682,2018,2019,25,11,10,4,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,52.3,59
+Saudi Arabia,SAU,682,2019,2020,26,12,9,5,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,64,52.03,57
+Saudi Arabia,SAU,682,2020,2021,24,12,8,4,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,69,53.06,64
+Saudi Arabia,SAU,682,2021,2022,24,12,8,4,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,69,52.87,63
+Saudi Arabia,SAU,682,2022,2023,25,13,7,5,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,69,52.55,61
+Saudi Arabia,SAU,682,2023,2024,25,13,7,5,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,71,53.21,64
+Saudi Arabia,SAU,682,2024,2025,25,13,7,5,3,Not Free,ไม่เสรี,Saudi Arabia,False,False,71,52.92,64
+Serbia,SRB,688,2020,2021,71,21,25,25,1,Free,เสรี,Serbia,False,False,69,53.06,15
+Serbia,SRB,688,2021,2022,72,22,25,25,1,Free,เสรี,Serbia,False,False,69,52.87,16
+Serbia,SRB,688,2022,2023,71,22,24,25,1,Free,เสรี,Serbia,False,False,69,52.55,17
+Serbia,SRB,688,2023,2024,70,21,25,24,1,Free,เสรี,Serbia,False,False,71,53.21,19
+Serbia,SRB,688,2024,2025,67,21,24,22,2,Partly Free,เสรีบางส่วน,Serbia,False,False,71,52.92,20
+Singapore,SGP,702,2013,2014,60,19,21,20,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,54.78,29
+Singapore,SGP,702,2014,2015,59,19,21,19,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,54.47,32
+Singapore,SGP,702,2015,2016,59,19,21,19,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,53.64,28
+Singapore,SGP,702,2016,2017,59,19,21,19,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,52.91,26
+Singapore,SGP,702,2017,2018,59,19,21,19,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,53.03,28
+Singapore,SGP,702,2018,2019,56,19,18,19,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,52.3,30
+Singapore,SGP,702,2019,2020,54,19,17,18,2,Partly Free,เสรีบางส่วน,Singapore,True,False,64,52.03,32
+Singapore,SGP,702,2020,2021,54,19,17,18,2,Partly Free,เสรีบางส่วน,Singapore,True,False,69,53.06,34
+Singapore,SGP,702,2021,2022,54,19,17,18,2,Partly Free,เสรีบางส่วน,Singapore,True,False,69,52.87,35
+Singapore,SGP,702,2022,2023,54,19,17,18,2,Partly Free,เสรีบางส่วน,Singapore,True,False,69,52.55,35
+Singapore,SGP,702,2023,2024,53,19,17,17,2,Partly Free,เสรีบางส่วน,Singapore,True,False,71,53.21,38
+Singapore,SGP,702,2024,2025,53,19,17,17,2,Partly Free,เสรีบางส่วน,Singapore,True,False,71,52.92,38
+South Africa,ZAF,710,2010,2011,74,18,26,30,1,Free,เสรี,South Africa,False,False,37,51.81,6
+South Africa,ZAF,710,2011,2012,74,17,27,30,1,Free,เสรี,South Africa,False,False,47,53.43,9
+South Africa,ZAF,710,2012,2013,74,18,27,29,1,Free,เสรี,South Africa,False,False,59,54.93,12
+South Africa,ZAF,710,2013,2014,74,18,27,29,1,Free,เสรี,South Africa,False,False,64,54.78,12
+South Africa,ZAF,710,2014,2015,73,17,27,29,1,Free,เสรี,South Africa,False,False,64,54.47,13
+South Africa,ZAF,710,2015,2016,75,17,29,29,1,Free,เสรี,South Africa,False,False,64,53.64,9
+South Africa,ZAF,710,2016,2017,75,17,29,29,1,Free,เสรี,South Africa,False,False,64,52.91,10
+South Africa,ZAF,710,2017,2018,75,17,29,29,1,Free,เสรี,South Africa,False,False,64,53.03,8
+South Africa,ZAF,710,2018,2019,72,17,28,27,1,Free,เสรี,South Africa,False,False,64,52.3,13
+South Africa,ZAF,710,2019,2020,70,16,29,25,1,Free,เสรี,South Africa,False,False,64,52.03,15
+South Africa,ZAF,710,2020,2021,73,17,29,27,1,Free,เสรี,South Africa,False,False,69,53.06,14
+South Africa,ZAF,710,2021,2022,73,18,29,26,1,Free,เสรี,South Africa,False,False,69,52.87,15
+South Africa,ZAF,710,2022,2023,73,17,29,27,1,Free,เสรี,South Africa,False,False,69,52.55,14
+South Africa,ZAF,710,2023,2024,74,19,29,26,1,Free,เสรี,South Africa,False,False,71,53.21,15
+South Africa,ZAF,710,2024,2025,73,19,28,26,1,Free,เสรี,South Africa,False,False,71,52.92,14
+Sri Lanka,LKA,144,2011,2012,45,9,17,19,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,47,53.43,32
+Sri Lanka,LKA,144,2012,2013,42,10,15,17,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,59,54.93,43
+Sri Lanka,LKA,144,2013,2014,42,10,15,17,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,54.78,46
+Sri Lanka,LKA,144,2014,2015,53,11,22,20,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,54.47,37
+Sri Lanka,LKA,144,2015,2016,56,11,23,22,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,53.64,33
+Sri Lanka,LKA,144,2016,2017,57,12,23,22,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,52.91,31
+Sri Lanka,LKA,144,2017,2018,53,10,22,21,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,53.03,36
+Sri Lanka,LKA,144,2018,2019,49,10,22,17,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,52.3,37
+Sri Lanka,LKA,144,2019,2020,52,12,22,18,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,64,52.03,33
+Sri Lanka,LKA,144,2020,2021,51,11,23,17,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,69,53.06,38
+Sri Lanka,LKA,144,2021,2022,48,9,22,17,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,69,52.87,43
+Sri Lanka,LKA,144,2022,2023,52,12,22,18,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,69,52.55,37
+Sri Lanka,LKA,144,2023,2024,53,14,21,18,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,71,53.21,38
+Sri Lanka,LKA,144,2024,2025,53,14,21,18,2,Partly Free,เสรีบางส่วน,Sri Lanka,False,False,71,52.92,38
+Syrian Arab Republic (the),SYR,760,2011,2012,17,2,10,5,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,47,53.43,44
+Syrian Arab Republic (the),SYR,760,2012,2013,15,1,10,4,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,59,54.93,56
+Syrian Arab Republic (the),SYR,760,2013,2014,12,0,9,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,54.78,63
+Syrian Arab Republic (the),SYR,760,2014,2015,13,1,9,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,54.47,62
+Syrian Arab Republic (the),SYR,760,2015,2016,13,1,9,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,53.64,62
+Syrian Arab Republic (the),SYR,760,2016,2017,14,2,9,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,52.91,62
+Syrian Arab Republic (the),SYR,760,2017,2018,17,5,9,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,53.03,61
+Syrian Arab Republic (the),SYR,760,2018,2019,17,6,8,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,52.3,62
+Syrian Arab Republic (the),SYR,760,2019,2020,17,6,8,3,3,Not Free,ไม่เสรี,Syrian Arab Republic,False,False,64,52.03,62
+Taiwan (Province of China),TWN,158,2020,2021,80,24,31,25,1,Free,เสรี,Taiwan (Province of China),False,False,69,53.06,5
+Taiwan (Province of China),TWN,158,2021,2022,79,24,30,25,1,Free,เสรี,Taiwan (Province of China),False,False,69,52.87,5
+Taiwan (Province of China),TWN,158,2022,2023,78,24,29,25,1,Free,เสรี,Taiwan (Province of China),False,False,69,52.55,6
+Taiwan (Province of China),TWN,158,2023,2024,79,24,29,26,1,Free,เสรี,Taiwan (Province of China),False,False,71,53.21,7
+Taiwan (Province of China),TWN,158,2024,2025,79,24,29,26,1,Free,เสรี,Taiwan (Province of China),False,False,71,52.92,7
+Thailand,THA,764,2010,2011,39,13,12,14,3,Not Free,ไม่เสรี,Thailand,True,True,37,51.81,27
+Thailand,THA,764,2011,2012,39,14,14,11,3,Not Free,ไม่เสรี,Thailand,True,True,47,53.43,35
+Thailand,THA,764,2012,2013,40,15,14,11,2,Partly Free,เสรีบางส่วน,Thailand,True,True,59,54.93,45
+Thailand,THA,764,2013,2014,38,14,14,10,3,Not Free,ไม่เสรี,Thailand,True,True,64,54.78,51
+Thailand,THA,764,2014,2015,37,16,13,8,3,Not Free,ไม่เสรี,Thailand,True,True,64,54.47,50
+Thailand,THA,764,2015,2016,34,15,12,7,3,Not Free,ไม่เสรี,Thailand,True,True,64,53.64,52
+Thailand,THA,764,2016,2017,33,15,11,7,3,Not Free,ไม่เสรี,Thailand,True,True,64,52.91,51
+Thailand,THA,764,2017,2018,35,16,11,8,3,Not Free,ไม่เสรี,Thailand,True,True,64,53.03,49
+Thailand,THA,764,2018,2019,35,16,11,8,3,Not Free,ไม่เสรี,Thailand,True,True,64,52.3,48
+Thailand,THA,764,2019,2020,35,16,12,7,3,Not Free,ไม่เสรี,Thailand,True,True,64,52.03,47
+Thailand,THA,764,2020,2021,36,16,13,7,3,Not Free,ไม่เสรี,Thailand,True,True,69,53.06,51
+Thailand,THA,764,2021,2022,39,16,14,9,3,Not Free,ไม่เสรี,Thailand,True,True,69,52.87,50
+Thailand,THA,764,2022,2023,39,16,14,9,3,Not Free,ไม่เสรี,Thailand,True,True,69,52.55,50
+Thailand,THA,764,2023,2024,39,16,14,9,3,Not Free,ไม่เสรี,Thailand,True,True,71,53.21,52
+Thailand,THA,764,2024,2025,39,17,14,8,3,Not Free,ไม่เสรี,Thailand,True,True,71,52.92,51
+Tunisia,TUN,788,2010,2011,19,4,7,8,3,Not Free,ไม่เสรี,Tunisia,False,False,37,51.81,33
+Tunisia,TUN,788,2011,2012,54,11,23,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,47,53.43,25
+Tunisia,TUN,788,2012,2013,59,13,27,19,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,59,54.93,26
+Tunisia,TUN,788,2013,2014,61,14,27,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,54.78,27
+Tunisia,TUN,788,2014,2015,62,15,27,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,54.47,26
+Tunisia,TUN,788,2015,2016,62,15,27,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,53.64,23
+Tunisia,TUN,788,2016,2017,62,15,27,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,52.91,23
+Tunisia,TUN,788,2017,2018,62,16,27,19,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,53.03,22
+Tunisia,TUN,788,2018,2019,64,16,29,19,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,52.3,19
+Tunisia,TUN,788,2019,2020,64,16,28,20,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,64,52.03,19
+Tunisia,TUN,788,2020,2021,63,16,28,19,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,69,53.06,25
+Tunisia,TUN,788,2021,2022,61,16,26,19,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,69,52.87,26
+Tunisia,TUN,788,2022,2023,59,16,26,17,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,69,52.55,30
+Tunisia,TUN,788,2023,2024,60,16,26,18,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,71,53.21,29
+Tunisia,TUN,788,2024,2025,59,17,24,18,2,Partly Free,เสรีบางส่วน,Tunisia,False,False,71,52.92,33
+Turkey,TUR,792,2010,2011,55,13,19,23,2,Partly Free,เสรีบางส่วน,Turkey,False,False,37,51.81,17
+Turkey,TUR,792,2011,2012,54,13,18,23,2,Partly Free,เสรีบางส่วน,Turkey,False,False,47,53.43,25
+Turkey,TUR,792,2012,2013,51,13,17,21,2,Partly Free,เสรีบางส่วน,Turkey,False,False,59,54.93,37
+Turkey,TUR,792,2013,2014,45,11,17,17,2,Partly Free,เสรีบางส่วน,Turkey,False,False,64,54.78,42
+Turkey,TUR,792,2014,2015,42,12,15,15,2,Partly Free,เสรีบางส่วน,Turkey,False,False,64,54.47,46
+Turkey,TUR,792,2015,2016,39,12,14,13,3,Not Free,ไม่เสรี,Turkey,False,False,64,53.64,46
+Turkey,TUR,792,2016,2017,34,12,12,10,3,Not Free,ไม่เสรี,Turkey,False,False,64,52.91,49
+Turkey,TUR,792,2017,2018,34,14,10,10,3,Not Free,ไม่เสรี,Turkey,False,False,64,53.03,50
+Turkey,TUR,792,2018,2019,37,15,11,11,3,Not Free,ไม่เสรี,Turkey,False,False,64,52.3,46
+Turkey,TUR,792,2019,2020,35,13,11,11,3,Not Free,ไม่เสรี,Turkey,False,False,64,52.03,47
+Turkey,TUR,792,2020,2021,34,15,10,9,3,Not Free,ไม่เสรี,Turkey,False,False,69,53.06,53
+Turkey,TUR,792,2021,2022,32,14,10,8,3,Not Free,ไม่เสรี,Turkey,False,False,69,52.87,53
+Turkey,TUR,792,2022,2023,30,12,10,8,3,Not Free,ไม่เสรี,Turkey,False,False,69,52.55,54
+Turkey,TUR,792,2023,2024,31,14,10,7,3,Not Free,ไม่เสรี,Turkey,False,False,71,53.21,56
+Turkey,TUR,792,2024,2025,31,13,10,8,3,Not Free,ไม่เสรี,Turkey,False,False,71,52.92,56
+Uganda,UGA,800,2011,2012,66,14,27,25,2,Partly Free,เสรีบางส่วน,Uganda,False,False,47,53.43,16
+Uganda,UGA,800,2012,2013,66,14,27,25,2,Partly Free,เสรีบางส่วน,Uganda,False,False,59,54.93,21
+Uganda,UGA,800,2013,2014,66,14,28,24,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,54.78,23
+Uganda,UGA,800,2014,2015,64,14,28,22,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,54.47,23
+Uganda,UGA,800,2015,2016,58,12,24,22,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,53.64,32
+Uganda,UGA,800,2016,2017,59,14,26,19,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,52.91,26
+Uganda,UGA,800,2017,2018,59,15,25,19,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,53.03,28
+Uganda,UGA,800,2018,2019,56,14,23,19,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,52.3,30
+Uganda,UGA,800,2019,2020,56,15,21,20,2,Partly Free,เสรีบางส่วน,Uganda,False,False,64,52.03,30
+Uganda,UGA,800,2020,2021,49,11,19,19,2,Partly Free,เสรีบางส่วน,Uganda,False,False,69,53.06,40
+Uganda,UGA,800,2021,2022,50,12,19,19,2,Partly Free,เสรีบางส่วน,Uganda,False,False,69,52.87,40
+Uganda,UGA,800,2022,2023,51,13,20,18,2,Partly Free,เสรีบางส่วน,Uganda,False,False,69,52.55,39
+Uganda,UGA,800,2023,2024,53,14,21,18,2,Partly Free,เสรีบางส่วน,Uganda,False,False,71,53.21,38
+Uganda,UGA,800,2024,2025,52,15,21,16,2,Partly Free,เสรีบางส่วน,Uganda,False,False,71,52.92,40
+Ukraine,UKR,804,2011,2012,73,18,27,28,1,Free,เสรี,Ukraine,False,False,47,53.43,11
+Ukraine,UKR,804,2012,2013,72,18,28,26,1,Free,เสรี,Ukraine,False,False,59,54.93,15
+Ukraine,UKR,804,2013,2014,67,17,27,23,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,54.78,20
+Ukraine,UKR,804,2014,2015,63,17,25,21,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,54.47,24
+Ukraine,UKR,804,2015,2016,62,17,24,21,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,53.64,23
+Ukraine,UKR,804,2016,2017,55,16,19,20,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,52.91,34
+Ukraine,UKR,804,2017,2018,55,16,19,20,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,53.03,32
+Ukraine,UKR,804,2018,2019,56,17,19,20,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,52.3,30
+Ukraine,UKR,804,2019,2020,61,19,21,21,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,64,52.03,23
+Ukraine,UKR,804,2020,2021,62,20,21,21,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,69,53.06,26
+Ukraine,UKR,804,2021,2022,59,18,21,20,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,69,52.87,29
+Ukraine,UKR,804,2022,2023,59,18,22,19,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,69,52.55,30
+Ukraine,UKR,804,2023,2024,59,18,22,19,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,71,53.21,32
+Ukraine,UKR,804,2024,2025,62,19,22,21,2,Partly Free,เสรีบางส่วน,Ukraine,False,False,71,52.92,26
+United Arab Emirates (the),ARE,784,2012,2013,34,12,13,9,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,59,54.93,48
+United Arab Emirates (the),ARE,784,2013,2014,33,11,13,9,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,54.78,54
+United Arab Emirates (the),ARE,784,2014,2015,32,11,13,8,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,54.47,54
+United Arab Emirates (the),ARE,784,2015,2016,32,11,13,8,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,53.64,54
+United Arab Emirates (the),ARE,784,2016,2017,31,12,12,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,52.91,54
+United Arab Emirates (the),ARE,784,2017,2018,31,12,12,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,53.03,53
+United Arab Emirates (the),ARE,784,2018,2019,28,12,10,6,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,52.3,54
+United Arab Emirates (the),ARE,784,2019,2020,29,12,10,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,64,52.03,52
+United Arab Emirates (the),ARE,784,2020,2021,27,12,9,6,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,69,53.06,60
+United Arab Emirates (the),ARE,784,2021,2022,28,12,9,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,69,52.87,57
+United Arab Emirates (the),ARE,784,2022,2023,30,14,9,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,69,52.55,54
+United Arab Emirates (the),ARE,784,2023,2024,30,14,9,7,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,71,53.21,57
+United Arab Emirates (the),ARE,784,2024,2025,28,14,9,5,3,Not Free,ไม่เสรี,United Arab Emirates,False,False,71,52.92,60
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2010,2011,76,24,27,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,37,51.81,5
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2011,2012,77,23,29,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,47,53.43,6
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2012,2013,77,23,29,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,59,54.93,8
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2013,2014,76,23,29,24,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,54.78,10
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2014,2015,76,23,29,24,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,54.47,9
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2015,2016,77,23,30,24,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,53.64,8
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2016,2017,76,23,30,23,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,52.91,8
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2017,2018,77,23,29,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,53.03,7
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2018,2019,77,22,30,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,52.3,5
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2019,2020,78,23,30,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,64,52.03,5
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2020,2021,78,23,30,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,69,53.06,7
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2021,2022,79,24,30,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,69,52.87,5
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2022,2023,79,24,30,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,69,52.55,5
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2023,2024,78,24,29,25,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,71,53.21,8
+United Kingdom of Great Britain and Northern Ireland (the),GBR,826,2024,2025,76,24,28,24,1,Free,เสรี,United Kingdom of Great Britain and Northern Ireland,False,False,71,52.92,9
+United States of America (the),USA,840,2010,2011,87,21,33,33,1,Free,เสรี,United States of America,False,False,37,51.81,2
+United States of America (the),USA,840,2011,2012,88,21,34,33,1,Free,เสรี,United States of America,False,False,47,53.43,2
+United States of America (the),USA,840,2012,2013,83,21,34,28,1,Free,เสรี,United States of America,False,False,59,54.93,3
+United States of America (the),USA,840,2013,2014,81,21,33,27,1,Free,เสรี,United States of America,False,False,64,54.78,6
+United States of America (the),USA,840,2014,2015,81,22,33,26,1,Free,เสรี,United States of America,False,False,64,54.47,5
+United States of America (the),USA,840,2015,2016,82,22,33,27,1,Free,เสรี,United States of America,False,False,64,53.64,4
+United States of America (the),USA,840,2016,2017,79,22,31,26,1,Free,เสรี,United States of America,False,False,64,52.91,5
+United States of America (the),USA,840,2017,2018,78,21,31,26,1,Free,เสรี,United States of America,False,False,64,53.03,6
+United States of America (the),USA,840,2018,2019,77,21,31,25,1,Free,เสรี,United States of America,False,False,64,52.3,5
+United States of America (the),USA,840,2019,2020,76,21,30,25,1,Free,เสรี,United States of America,False,False,64,52.03,7
+United States of America (the),USA,840,2020,2021,75,21,29,25,1,Free,เสรี,United States of America,False,False,69,53.06,12
+United States of America (the),USA,840,2021,2022,76,21,30,25,1,Free,เสรี,United States of America,False,False,69,52.87,10
+United States of America (the),USA,840,2022,2023,76,21,30,25,1,Free,เสรี,United States of America,False,False,69,52.55,9
+United States of America (the),USA,840,2023,2024,76,21,29,26,1,Free,เสรี,United States of America,False,False,71,53.21,11
+United States of America (the),USA,840,2024,2025,73,20,28,25,1,Free,เสรี,United States of America,False,False,71,52.92,14
+Uzbekistan,UZB,860,2011,2012,23,6,7,10,3,Not Free,ไม่เสรี,Uzbekistan,False,False,47,53.43,43
+Uzbekistan,UZB,860,2012,2013,22,5,7,10,3,Not Free,ไม่เสรี,Uzbekistan,False,False,59,54.93,54
+Uzbekistan,UZB,860,2013,2014,21,5,7,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,54.78,59
+Uzbekistan,UZB,860,2014,2015,22,6,7,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,54.47,59
+Uzbekistan,UZB,860,2015,2016,21,5,7,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,53.64,59
+Uzbekistan,UZB,860,2016,2017,23,6,8,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,52.91,59
+Uzbekistan,UZB,860,2017,2018,25,7,9,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,53.03,58
+Uzbekistan,UZB,860,2018,2019,26,7,10,9,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,52.3,56
+Uzbekistan,UZB,860,2019,2020,27,7,12,8,3,Not Free,ไม่เสรี,Uzbekistan,False,False,64,52.03,56
+Uzbekistan,UZB,860,2020,2021,28,9,12,7,3,Not Free,ไม่เสรี,Uzbekistan,False,False,69,53.06,58
+Uzbekistan,UZB,860,2021,2022,27,9,11,7,3,Not Free,ไม่เสรี,Uzbekistan,False,False,69,52.87,59
+Uzbekistan,UZB,860,2022,2023,25,8,11,6,3,Not Free,ไม่เสรี,Uzbekistan,False,False,69,52.55,61
+Uzbekistan,UZB,860,2023,2024,27,10,11,6,3,Not Free,ไม่เสรี,Uzbekistan,False,False,71,53.21,61
+Uzbekistan,UZB,860,2024,2025,29,11,11,7,3,Not Free,ไม่เสรี,Uzbekistan,False,False,71,52.92,59
+Venezuela (Bolivarian Republic of),VEN,862,2010,2011,54,10,22,22,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,37,51.81,18
+Venezuela (Bolivarian Republic of),VEN,862,2011,2012,52,10,21,21,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,47,53.43,27
+Venezuela (Bolivarian Republic of),VEN,862,2012,2013,47,9,19,19,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,59,54.93,40
+Venezuela (Bolivarian Republic of),VEN,862,2013,2014,44,8,17,19,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,64,54.78,45
+Venezuela (Bolivarian Republic of),VEN,862,2014,2015,43,8,17,18,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,64,54.47,45
+Venezuela (Bolivarian Republic of),VEN,862,2015,2016,40,7,18,15,2,Partly Free,เสรีบางส่วน,Venezuela (Bolivarian Republic of),False,False,64,53.64,45
+Venezuela (Bolivarian Republic of),VEN,862,2016,2017,37,6,17,14,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,64,52.91,46
+Venezuela (Bolivarian Republic of),VEN,862,2017,2018,34,5,16,13,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,64,53.03,50
+Venezuela (Bolivarian Republic of),VEN,862,2018,2019,30,4,14,12,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,64,52.3,52
+Venezuela (Bolivarian Republic of),VEN,862,2019,2020,28,5,13,10,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,64,52.03,55
+Venezuela (Bolivarian Republic of),VEN,862,2020,2021,28,6,12,10,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,69,53.06,58
+Venezuela (Bolivarian Republic of),VEN,862,2021,2022,30,7,12,11,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,69,52.87,55
+Venezuela (Bolivarian Republic of),VEN,862,2022,2023,29,7,11,11,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,69,52.55,56
+Venezuela (Bolivarian Republic of),VEN,862,2023,2024,30,8,11,11,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,71,53.21,57
+Venezuela (Bolivarian Republic of),VEN,862,2024,2025,26,8,9,9,3,Not Free,ไม่เสรี,Venezuela (Bolivarian Republic of),False,False,71,52.92,63
+Viet Nam,VNM,704,2010,2011,27,9,10,8,3,Not Free,ไม่เสรี,Viet Nam,True,False,37,51.81,32
+Viet Nam,VNM,704,2011,2012,27,9,9,9,3,Not Free,ไม่เสรี,Viet Nam,True,False,47,53.43,40
+Viet Nam,VNM,704,2012,2013,25,11,7,7,3,Not Free,ไม่เสรี,Viet Nam,True,False,59,54.93,53
+Viet Nam,VNM,704,2013,2014,24,11,7,6,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,54.78,58
+Viet Nam,VNM,704,2014,2015,24,12,6,6,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,54.47,58
+Viet Nam,VNM,704,2015,2016,24,11,7,6,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,53.64,58
+Viet Nam,VNM,704,2016,2017,24,11,7,6,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,52.91,58
+Viet Nam,VNM,704,2017,2018,24,12,7,5,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,53.03,59
+Viet Nam,VNM,704,2018,2019,24,12,7,5,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,52.3,60
+Viet Nam,VNM,704,2019,2020,22,11,7,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,64,52.03,60
+Viet Nam,VNM,704,2020,2021,22,12,6,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,69,53.06,65
+Viet Nam,VNM,704,2021,2022,22,12,6,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,69,52.87,65
+Viet Nam,VNM,704,2022,2023,22,12,6,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,69,52.55,64
+Viet Nam,VNM,704,2023,2024,22,12,6,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,71,53.21,65
+Viet Nam,VNM,704,2024,2025,22,12,6,4,3,Not Free,ไม่เสรี,Viet Nam,True,False,71,52.92,65
+Zambia,ZMB,894,2013,2014,57,13,22,22,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,54.78,34
+Zambia,ZMB,894,2014,2015,60,14,23,23,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,54.47,29
+Zambia,ZMB,894,2015,2016,62,14,25,23,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,53.64,23
+Zambia,ZMB,894,2016,2017,59,13,23,23,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,52.91,26
+Zambia,ZMB,894,2017,2018,58,14,24,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,53.03,30
+Zambia,ZMB,894,2018,2019,58,14,24,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,52.3,27
+Zambia,ZMB,894,2019,2020,59,13,24,22,2,Partly Free,เสรีบางส่วน,Zambia,False,False,64,52.03,27
+Zambia,ZMB,894,2020,2021,59,15,24,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,69,53.06,30
+Zambia,ZMB,894,2021,2022,58,15,23,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,69,52.87,31
+Zambia,ZMB,894,2022,2023,59,15,24,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,69,52.55,30
+Zambia,ZMB,894,2023,2024,62,15,27,20,2,Partly Free,เสรีบางส่วน,Zambia,False,False,71,53.21,27
+Zambia,ZMB,894,2024,2025,62,16,27,19,2,Partly Free,เสรีบางส่วน,Zambia,False,False,71,52.92,26
+Zimbabwe,ZWE,716,2010,2011,46,9,20,17,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,37,51.81,23
+Zimbabwe,ZWE,716,2011,2012,46,8,21,17,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,47,53.43,31
+Zimbabwe,ZWE,716,2012,2013,46,9,21,16,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,59,54.93,41
+Zimbabwe,ZWE,716,2013,2014,45,10,20,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,54.78,42
+Zimbabwe,ZWE,716,2014,2015,44,10,19,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,54.47,43
+Zimbabwe,ZWE,716,2015,2016,44,10,19,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,53.64,41
+Zimbabwe,ZWE,716,2016,2017,44,9,20,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,52.91,43
+Zimbabwe,ZWE,716,2017,2018,47,10,22,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,53.03,41
+Zimbabwe,ZWE,716,2018,2019,42,7,19,16,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,52.3,43
+Zimbabwe,ZWE,716,2019,2020,46,9,22,15,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,64,52.03,41
+Zimbabwe,ZWE,716,2020,2021,46,8,22,16,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,69,53.06,46
+Zimbabwe,ZWE,716,2021,2022,49,8,23,18,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,69,52.87,41
+Zimbabwe,ZWE,716,2022,2023,51,10,23,18,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,69,52.55,39
+Zimbabwe,ZWE,716,2023,2024,48,9,21,18,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,71,53.21,44
+Zimbabwe,ZWE,716,2024,2025,50,10,22,18,2,Partly Free,เสรีบางส่วน,Zimbabwe,False,False,71,52.92,42

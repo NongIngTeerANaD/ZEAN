@@ -1,0 +1,12 @@
+﻿step,table,rows_before,rows_after,note
+"parse dates, drop rows without ID",aiid_incidents,1775,1775,header row is the 3rd row of the sheet
+clean country code,aiid_incidents,1775,1775,"140 rows with a country; blanks set to missing, 'United States' mapped to US"
+tidy names and add comparison columns,fotn,940,940,"removed '(the)' from names; added ASEAN flag, yearly mean and rank"
+parse dates (day-month-year),euv_articles,18249,18249,all dates parsed with %d-%m-%Y
+one row per debunk,euv_debunks,18249,8522,counts of articles by class kept per debunk
+split keywords to long table,euv_keywords_long,8522,29842,debunk x keyword
+"parse dates, add verdict flags",afnc_posts,17726,17726,content column left out to keep the file small
+split topic tags to long table,afnc_topic_tags_long,17726,51662,post x tag
+group crime type labels,acsc_weekly,48,48,"22 raw labels mapped to 6 groups; raw labels kept; suspect week flagged, values unchanged"
+add quality columns,weekly_panel,409,409,no zero filling; missing ACSC weeks stay missing
+cross check,afnc_posts vs weekly_panel,14458,14458,weeks that differ: 0
